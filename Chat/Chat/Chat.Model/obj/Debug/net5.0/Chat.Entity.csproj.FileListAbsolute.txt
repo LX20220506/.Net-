@@ -1,0 +1,16 @@
+E:\demo\Chat\Chat\Chat.Model\bin\Debug\net5.0\appsettings.json
+E:\demo\Chat\Chat\Chat.Model\bin\Debug\net5.0\Chat.Entity.deps.json
+E:\demo\Chat\Chat\Chat.Model\bin\Debug\net5.0\Chat.Entity.runtimeconfig.json
+E:\demo\Chat\Chat\Chat.Model\bin\Debug\net5.0\Chat.Entity.runtimeconfig.dev.json
+E:\demo\Chat\Chat\Chat.Model\bin\Debug\net5.0\Chat.Entity.dll
+E:\demo\Chat\Chat\Chat.Model\bin\Debug\net5.0\ref\Chat.Entity.dll
+E:\demo\Chat\Chat\Chat.Model\bin\Debug\net5.0\Chat.Entity.pdb
+E:\demo\Chat\Chat\Chat.Model\obj\Debug\net5.0\Chat.Entity.csproj.AssemblyReference.cache
+E:\demo\Chat\Chat\Chat.Model\obj\Debug\net5.0\Chat.Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\demo\Chat\Chat\Chat.Model\obj\Debug\net5.0\Chat.Entity.AssemblyInfoInputs.cache
+E:\demo\Chat\Chat\Chat.Model\obj\Debug\net5.0\Chat.Entity.AssemblyInfo.cs
+E:\demo\Chat\Chat\Chat.Model\obj\Debug\net5.0\Chat.Entity.csproj.CoreCompileInputs.cache
+E:\demo\Chat\Chat\Chat.Model\obj\Debug\net5.0\Chat.Entity.dll
+E:\demo\Chat\Chat\Chat.Model\obj\Debug\net5.0\ref\Chat.Entity.dll
+E:\demo\Chat\Chat\Chat.Model\obj\Debug\net5.0\Chat.Entity.pdb
+E:\demo\Chat\Chat\Chat.Model\obj\Debug\net5.0\Chat.Entity.genruntimeconfig.cache

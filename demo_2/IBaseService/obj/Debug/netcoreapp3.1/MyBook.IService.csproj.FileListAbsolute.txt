@@ -1,0 +1,14 @@
+E:\dome\demo_2\IBaseService\bin\Debug\netcoreapp3.1\MyBook.IService.deps.json
+E:\dome\demo_2\IBaseService\bin\Debug\netcoreapp3.1\MyBook.IService.dll
+E:\dome\demo_2\IBaseService\bin\Debug\netcoreapp3.1\MyBook.IService.pdb
+E:\dome\demo_2\IBaseService\bin\Debug\netcoreapp3.1\Models.dll
+E:\dome\demo_2\IBaseService\bin\Debug\netcoreapp3.1\MyBook.IRepository.dll
+E:\dome\demo_2\IBaseService\bin\Debug\netcoreapp3.1\Models.pdb
+E:\dome\demo_2\IBaseService\bin\Debug\netcoreapp3.1\MyBook.IRepository.pdb
+E:\dome\demo_2\IBaseService\obj\Debug\netcoreapp3.1\MyBook.IService.csprojAssemblyReference.cache
+E:\dome\demo_2\IBaseService\obj\Debug\netcoreapp3.1\MyBook.IService.AssemblyInfoInputs.cache
+E:\dome\demo_2\IBaseService\obj\Debug\netcoreapp3.1\MyBook.IService.AssemblyInfo.cs
+E:\dome\demo_2\IBaseService\obj\Debug\netcoreapp3.1\MyBook.IService.csproj.CoreCompileInputs.cache
+E:\dome\demo_2\IBaseService\obj\Debug\netcoreapp3.1\MyBook.IService.csproj.CopyComplete
+E:\dome\demo_2\IBaseService\obj\Debug\netcoreapp3.1\MyBook.IService.dll
+E:\dome\demo_2\IBaseService\obj\Debug\netcoreapp3.1\MyBook.IService.pdb

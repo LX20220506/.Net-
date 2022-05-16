@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Shool.IService\Shool.IService.csproj" />
+    <ProjectReference Include="..\Shool.Repository\Shool.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

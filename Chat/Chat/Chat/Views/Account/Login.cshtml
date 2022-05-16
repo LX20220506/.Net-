@@ -1,0 +1,57 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="~/css/site.css" rel="stylesheet" />
+    <link href="~/lib/layui/css/layui.css" rel="stylesheet" />
+    <script src="~/lib/layui/layui.js"></script>
+    <style>
+        #login_box {
+            margin: auto;
+            width: 50%;
+        }
+
+            #login_box h1 {
+                text-align: center
+            }
+    </style>
+</head>
+<body>
+    <div id="login_box">
+        <h1 >
+            登錄
+        </h1>
+        <form class="layui-form" action="/account/Login" method="post" >
+            <div class="layui-form-item">
+                <label class="layui-form-label">賬號</label>
+                <div class="layui-input-block">
+                    <input type="text" class="layui-input" name="name" value="" required lay-verify="required" placeholder="请输入賬號"/>
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">密碼</label>
+                <div class="layui-input-block">
+                    <input type="password" class="layui-input" name="pwd" value="" lay-verify="required"  required placeholder="請輸入密碼" />
+                </div>
+            </div>
+            <div class="layui-form-item err">
+                <div class="layui-input-block">
+                    @(ViewData["LoginError"]==null?"": ViewData["LoginError"])
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <div class="layui-input-block">
+                    <input type="submit" value="登錄"  class="layui-btn" lay-submit lay-filter="item" />
+                    <a href="/account/signin" class="layui-table-link">註冊</a>
+                </div>
+            </div>
+        </form>
+    </div>
+
+</body>
+</html>

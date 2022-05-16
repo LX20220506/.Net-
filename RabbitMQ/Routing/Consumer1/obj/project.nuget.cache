@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3noGyTet93qKfJkGCPfuy20ioceqrtnMOVU1ZwAf2pq0OJu9Bfp8e+B2FWAEs+TWfkoBAGE06Fh27Q/n+RZAVQ==",
+  "success": true,
+  "projectFilePath": "E:\\demo\\RabbitMQ\\Routing\\Consumer1\\Consumer1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1011751\\.nuget\\packages\\rabbitmq.client\\5.2.0\\rabbitmq.client.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

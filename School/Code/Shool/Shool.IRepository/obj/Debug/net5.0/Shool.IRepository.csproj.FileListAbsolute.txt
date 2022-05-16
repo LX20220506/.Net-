@@ -1,0 +1,15 @@
+E:\demo\School\Code\Shool\Shool.IRepository\bin\Debug\net5.0\Shool.IRepository.deps.json
+E:\demo\School\Code\Shool\Shool.IRepository\bin\Debug\net5.0\Shool.IRepository.dll
+E:\demo\School\Code\Shool\Shool.IRepository\bin\Debug\net5.0\ref\Shool.IRepository.dll
+E:\demo\School\Code\Shool\Shool.IRepository\bin\Debug\net5.0\Shool.IRepository.pdb
+E:\demo\School\Code\Shool\Shool.IRepository\bin\Debug\net5.0\Shool.Entity.dll
+E:\demo\School\Code\Shool\Shool.IRepository\bin\Debug\net5.0\Shool.Entity.pdb
+E:\demo\School\Code\Shool\Shool.IRepository\obj\Debug\net5.0\Shool.IRepository.csproj.AssemblyReference.cache
+E:\demo\School\Code\Shool\Shool.IRepository\obj\Debug\net5.0\Shool.IRepository.GeneratedMSBuildEditorConfig.editorconfig
+E:\demo\School\Code\Shool\Shool.IRepository\obj\Debug\net5.0\Shool.IRepository.AssemblyInfoInputs.cache
+E:\demo\School\Code\Shool\Shool.IRepository\obj\Debug\net5.0\Shool.IRepository.AssemblyInfo.cs
+E:\demo\School\Code\Shool\Shool.IRepository\obj\Debug\net5.0\Shool.IRepository.csproj.CoreCompileInputs.cache
+E:\demo\School\Code\Shool\Shool.IRepository\obj\Debug\net5.0\Shool.IRepository.csproj.CopyComplete
+E:\demo\School\Code\Shool\Shool.IRepository\obj\Debug\net5.0\Shool.IRepository.dll
+E:\demo\School\Code\Shool\Shool.IRepository\obj\Debug\net5.0\ref\Shool.IRepository.dll
+E:\demo\School\Code\Shool\Shool.IRepository\obj\Debug\net5.0\Shool.IRepository.pdb

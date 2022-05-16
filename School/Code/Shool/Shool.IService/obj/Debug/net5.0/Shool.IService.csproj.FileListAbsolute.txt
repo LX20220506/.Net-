@@ -1,0 +1,15 @@
+E:\demo\School\Code\Shool\Shool.IService\bin\Debug\net5.0\Shool.IService.deps.json
+E:\demo\School\Code\Shool\Shool.IService\bin\Debug\net5.0\Shool.IService.dll
+E:\demo\School\Code\Shool\Shool.IService\bin\Debug\net5.0\ref\Shool.IService.dll
+E:\demo\School\Code\Shool\Shool.IService\bin\Debug\net5.0\Shool.IService.pdb
+E:\demo\School\Code\Shool\Shool.IService\bin\Debug\net5.0\Shool.Entity.dll
+E:\demo\School\Code\Shool\Shool.IService\bin\Debug\net5.0\Shool.Entity.pdb
+E:\demo\School\Code\Shool\Shool.IService\obj\Debug\net5.0\Shool.IService.csproj.AssemblyReference.cache
+E:\demo\School\Code\Shool\Shool.IService\obj\Debug\net5.0\Shool.IService.GeneratedMSBuildEditorConfig.editorconfig
+E:\demo\School\Code\Shool\Shool.IService\obj\Debug\net5.0\Shool.IService.AssemblyInfoInputs.cache
+E:\demo\School\Code\Shool\Shool.IService\obj\Debug\net5.0\Shool.IService.AssemblyInfo.cs
+E:\demo\School\Code\Shool\Shool.IService\obj\Debug\net5.0\Shool.IService.csproj.CoreCompileInputs.cache
+E:\demo\School\Code\Shool\Shool.IService\obj\Debug\net5.0\Shool.IService.csproj.CopyComplete
+E:\demo\School\Code\Shool\Shool.IService\obj\Debug\net5.0\Shool.IService.dll
+E:\demo\School\Code\Shool\Shool.IService\obj\Debug\net5.0\ref\Shool.IService.dll
+E:\demo\School\Code\Shool\Shool.IService\obj\Debug\net5.0\Shool.IService.pdb

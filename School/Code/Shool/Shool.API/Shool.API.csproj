@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Castle.Core" Version="4.4.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.13" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Shool.Entity\Shool.Entity.csproj" />
+    <ProjectReference Include="..\Shool.Repository\Shool.Repository.csproj" />
+    <ProjectReference Include="..\Shool.Service\Shool.Service.csproj" />
+    <ProjectReference Include="..\Shool.Utility\Shool.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

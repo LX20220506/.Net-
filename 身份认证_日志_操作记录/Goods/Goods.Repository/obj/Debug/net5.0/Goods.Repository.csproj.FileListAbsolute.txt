@@ -1,0 +1,17 @@
+E:\demo\身份认证_日志_操作记录\Goods\Goods.Repository\bin\Debug\net5.0\Goods.Repository.deps.json
+E:\demo\身份认证_日志_操作记录\Goods\Goods.Repository\bin\Debug\net5.0\Goods.Repository.dll
+E:\demo\身份认证_日志_操作记录\Goods\Goods.Repository\bin\Debug\net5.0\ref\Goods.Repository.dll
+E:\demo\身份认证_日志_操作记录\Goods\Goods.Repository\bin\Debug\net5.0\Goods.Repository.pdb
+E:\demo\身份认证_日志_操作记录\Goods\Goods.Repository\bin\Debug\net5.0\Goods.EF.dll
+E:\demo\身份认证_日志_操作记录\Goods\Goods.Repository\bin\Debug\net5.0\Goods.Entity.dll
+E:\demo\身份认证_日志_操作记录\Goods\Goods.Repository\bin\Debug\net5.0\Goods.EF.pdb
+E:\demo\身份认证_日志_操作记录\Goods\Goods.Repository\bin\Debug\net5.0\Goods.Entity.pdb
+E:\demo\身份认证_日志_操作记录\Goods\Goods.Repository\obj\Debug\net5.0\Goods.Repository.csproj.AssemblyReference.cache
+E:\demo\身份认证_日志_操作记录\Goods\Goods.Repository\obj\Debug\net5.0\Goods.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\demo\身份认证_日志_操作记录\Goods\Goods.Repository\obj\Debug\net5.0\Goods.Repository.AssemblyInfoInputs.cache
+E:\demo\身份认证_日志_操作记录\Goods\Goods.Repository\obj\Debug\net5.0\Goods.Repository.AssemblyInfo.cs
+E:\demo\身份认证_日志_操作记录\Goods\Goods.Repository\obj\Debug\net5.0\Goods.Repository.csproj.CoreCompileInputs.cache
+E:\demo\身份认证_日志_操作记录\Goods\Goods.Repository\obj\Debug\net5.0\Goods.Repository.csproj.CopyComplete
+E:\demo\身份认证_日志_操作记录\Goods\Goods.Repository\obj\Debug\net5.0\Goods.Repository.dll
+E:\demo\身份认证_日志_操作记录\Goods\Goods.Repository\obj\Debug\net5.0\ref\Goods.Repository.dll
+E:\demo\身份认证_日志_操作记录\Goods\Goods.Repository\obj\Debug\net5.0\Goods.Repository.pdb

@@ -1,0 +1,12 @@
+E:\demo\School\Code\Shool\Shool.Entity\bin\Debug\net5.0\Shool.Entity.deps.json
+E:\demo\School\Code\Shool\Shool.Entity\bin\Debug\net5.0\Shool.Entity.dll
+E:\demo\School\Code\Shool\Shool.Entity\bin\Debug\net5.0\ref\Shool.Entity.dll
+E:\demo\School\Code\Shool\Shool.Entity\bin\Debug\net5.0\Shool.Entity.pdb
+E:\demo\School\Code\Shool\Shool.Entity\obj\Debug\net5.0\Shool.Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\demo\School\Code\Shool\Shool.Entity\obj\Debug\net5.0\Shool.Entity.AssemblyInfoInputs.cache
+E:\demo\School\Code\Shool\Shool.Entity\obj\Debug\net5.0\Shool.Entity.AssemblyInfo.cs
+E:\demo\School\Code\Shool\Shool.Entity\obj\Debug\net5.0\Shool.Entity.csproj.CoreCompileInputs.cache
+E:\demo\School\Code\Shool\Shool.Entity\obj\Debug\net5.0\Shool.Entity.dll
+E:\demo\School\Code\Shool\Shool.Entity\obj\Debug\net5.0\ref\Shool.Entity.dll
+E:\demo\School\Code\Shool\Shool.Entity\obj\Debug\net5.0\Shool.Entity.pdb
+E:\demo\School\Code\Shool\Shool.Entity\obj\Debug\net5.0\Shool.Entity.csproj.AssemblyReference.cache

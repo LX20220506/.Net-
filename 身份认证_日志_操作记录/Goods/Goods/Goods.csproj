@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+	<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.15" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Goods.EF\Goods.EF.csproj" />
+    <ProjectReference Include="..\Goods.Entity\Goods.Entity.csproj" />
+    <ProjectReference Include="..\Goods.Tools\Goods.Tools.csproj" />
+  </ItemGroup>
+
+</Project>

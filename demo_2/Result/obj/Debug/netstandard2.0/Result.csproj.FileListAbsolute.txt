@@ -1,0 +1,9 @@
+E:\dome\demo_2\Result\bin\Debug\netstandard2.0\Result.deps.json
+E:\dome\demo_2\Result\bin\Debug\netstandard2.0\Result.dll
+E:\dome\demo_2\Result\bin\Debug\netstandard2.0\Result.pdb
+E:\dome\demo_2\Result\obj\Debug\netstandard2.0\Result.csprojAssemblyReference.cache
+E:\dome\demo_2\Result\obj\Debug\netstandard2.0\Result.AssemblyInfoInputs.cache
+E:\dome\demo_2\Result\obj\Debug\netstandard2.0\Result.AssemblyInfo.cs
+E:\dome\demo_2\Result\obj\Debug\netstandard2.0\Result.csproj.CoreCompileInputs.cache
+E:\dome\demo_2\Result\obj\Debug\netstandard2.0\Result.dll
+E:\dome\demo_2\Result\obj\Debug\netstandard2.0\Result.pdb

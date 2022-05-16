@@ -1,0 +1,16 @@
+E:\demo\algorithm\algorithm\algorithm\bin\Debug\net5.0\algorithm.exe
+E:\demo\algorithm\algorithm\algorithm\bin\Debug\net5.0\algorithm.deps.json
+E:\demo\algorithm\algorithm\algorithm\bin\Debug\net5.0\algorithm.runtimeconfig.json
+E:\demo\algorithm\algorithm\algorithm\bin\Debug\net5.0\algorithm.runtimeconfig.dev.json
+E:\demo\algorithm\algorithm\algorithm\bin\Debug\net5.0\algorithm.dll
+E:\demo\algorithm\algorithm\algorithm\bin\Debug\net5.0\ref\algorithm.dll
+E:\demo\algorithm\algorithm\algorithm\bin\Debug\net5.0\algorithm.pdb
+E:\demo\algorithm\algorithm\algorithm\obj\Debug\net5.0\algorithm.csproj.AssemblyReference.cache
+E:\demo\algorithm\algorithm\algorithm\obj\Debug\net5.0\algorithm.GeneratedMSBuildEditorConfig.editorconfig
+E:\demo\algorithm\algorithm\algorithm\obj\Debug\net5.0\algorithm.AssemblyInfoInputs.cache
+E:\demo\algorithm\algorithm\algorithm\obj\Debug\net5.0\algorithm.AssemblyInfo.cs
+E:\demo\algorithm\algorithm\algorithm\obj\Debug\net5.0\algorithm.csproj.CoreCompileInputs.cache
+E:\demo\algorithm\algorithm\algorithm\obj\Debug\net5.0\algorithm.dll
+E:\demo\algorithm\algorithm\algorithm\obj\Debug\net5.0\ref\algorithm.dll
+E:\demo\algorithm\algorithm\algorithm\obj\Debug\net5.0\algorithm.pdb
+E:\demo\algorithm\algorithm\algorithm\obj\Debug\net5.0\algorithm.genruntimeconfig.cache

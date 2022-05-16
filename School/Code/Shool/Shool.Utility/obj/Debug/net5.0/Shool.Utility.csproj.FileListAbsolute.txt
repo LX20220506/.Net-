@@ -1,0 +1,15 @@
+E:\demo\School\Code\Shool\Shool.Utility\bin\Debug\net5.0\Shool.Utility.deps.json
+E:\demo\School\Code\Shool\Shool.Utility\bin\Debug\net5.0\Shool.Utility.dll
+E:\demo\School\Code\Shool\Shool.Utility\bin\Debug\net5.0\ref\Shool.Utility.dll
+E:\demo\School\Code\Shool\Shool.Utility\bin\Debug\net5.0\Shool.Utility.pdb
+E:\demo\School\Code\Shool\Shool.Utility\bin\Debug\net5.0\Shool.Entity.dll
+E:\demo\School\Code\Shool\Shool.Utility\bin\Debug\net5.0\Shool.Entity.pdb
+E:\demo\School\Code\Shool\Shool.Utility\obj\Debug\net5.0\Shool.Utility.csproj.AssemblyReference.cache
+E:\demo\School\Code\Shool\Shool.Utility\obj\Debug\net5.0\Shool.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\demo\School\Code\Shool\Shool.Utility\obj\Debug\net5.0\Shool.Utility.AssemblyInfoInputs.cache
+E:\demo\School\Code\Shool\Shool.Utility\obj\Debug\net5.0\Shool.Utility.AssemblyInfo.cs
+E:\demo\School\Code\Shool\Shool.Utility\obj\Debug\net5.0\Shool.Utility.csproj.CoreCompileInputs.cache
+E:\demo\School\Code\Shool\Shool.Utility\obj\Debug\net5.0\Shool.Utility.csproj.CopyComplete
+E:\demo\School\Code\Shool\Shool.Utility\obj\Debug\net5.0\Shool.Utility.dll
+E:\demo\School\Code\Shool\Shool.Utility\obj\Debug\net5.0\ref\Shool.Utility.dll
+E:\demo\School\Code\Shool\Shool.Utility\obj\Debug\net5.0\Shool.Utility.pdb

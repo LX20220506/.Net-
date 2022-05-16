@@ -1,0 +1,279 @@
+2022-04-27 16:47:47.229 +08:00 [INF] User profile is available. Using 'C:\Users\1011751\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-04-27 16:47:47.422 +08:00 [INF] Now listening on: http://localhost:5000
+2022-04-27 16:47:47.424 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-04-27 16:47:47.425 +08:00 [INF] Hosting environment: Development
+2022-04-27 16:47:47.427 +08:00 [INF] Content root path: E:\demo\身份认证_日志_操作记录\Goods\Goods
+2022-04-27 16:47:49.102 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2022-04-27 16:47:49.214 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 114.6148ms
+2022-04-27 16:47:49.259 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+2022-04-27 16:47:49.262 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 3080 application/javascript;+charset=utf-8 2.8194ms
+2022-04-27 16:47:49.388 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2022-04-27 16:47:49.501 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 112.7417ms
+2022-04-27 16:47:58.045 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/Goods/GetGoodsList - -
+2022-04-27 16:47:58.083 +08:00 [INF] Executing endpoint 'Goods.Controllers.GoodsController.GetGoodsList (Goods)'
+2022-04-27 16:47:58.107 +08:00 [INF] Route matched with {action = "GetGoodsList", controller = "Goods"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetGoodsList() on controller Goods.Controllers.GoodsController (Goods).
+2022-04-27 16:47:58.690 +08:00 [INF] Entity Framework Core 5.0.15 initialized 'GoodsDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2022-04-27 16:47:59.141 +08:00 [INF] Executed DbCommand (25ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[GoodsDesc], [g].[GoodsName], [g].[GoodsPrice]
+FROM [Goods] AS [g]
+2022-04-27 16:47:59.214 +08:00 [INF] ActionName:Goods.Controllers.GoodsController.GetGoodsList (Goods)  {GUID}
+2022-04-27 16:47:59.227 +08:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Goods.Entity.Models.GoodsInfo, Goods.Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-04-27 16:47:59.245 +08:00 [INF] Executed action Goods.Controllers.GoodsController.GetGoodsList (Goods) in 1125.613ms
+2022-04-27 16:47:59.247 +08:00 [INF] Executed endpoint 'Goods.Controllers.GoodsController.GetGoodsList (Goods)'
+2022-04-27 16:47:59.252 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/Goods/GetGoodsList - - - 200 - application/json;+charset=utf-8 1206.6126ms
+
+【INF】2022-04-27 16:49:16.153
+#Msg# User profile is available. Using 'C:\Users\1011751\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+#Pro# {"EventId":{"Id":63,"Name":"UsingProfileAsKeyRepositoryWithDPAPI"},"SourceContext":"Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager"}
+#Exc# 
+
+
+【INF】2022-04-27 16:49:16.339
+#Msg# Now listening on: http://localhost:5000
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-04-27 16:49:16.342
+#Msg# Application started. Press Ctrl+C to shut down.
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-04-27 16:49:16.343
+#Msg# Hosting environment: Development
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-04-27 16:49:16.344
+#Msg# Content root path: E:\demo\身份认证_日志_操作记录\Goods\Goods
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-04-27 16:49:16.538
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/index.html","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMH85B7Q5OSP:00000002","RequestPath":"/swagger/index.html","ConnectionId":"0HMH85B7Q5OSP"}
+#Exc# 
+
+
+【INF】2022-04-27 16:49:16.697
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 162.0763ms
+#Pro# {"ElapsedMilliseconds":162.0763,"StatusCode":200,"ContentType":"text/html;charset=utf-8","ContentLength":null,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/index.html","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMH85B7Q5OSP:00000002","RequestPath":"/swagger/index.html","ConnectionId":"0HMH85B7Q5OSP"}
+#Exc# 
+
+
+【INF】2022-04-27 16:49:16.728
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/_framework/aspnetcore-browser-refresh.js","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMH85B7Q5OSP:00000003","RequestPath":"/_framework/aspnetcore-browser-refresh.js","ConnectionId":"0HMH85B7Q5OSP"}
+#Exc# 
+
+
+【INF】2022-04-27 16:49:16.732
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 3080 application/javascript;+charset=utf-8 3.3391ms
+#Pro# {"ElapsedMilliseconds":3.3391,"StatusCode":200,"ContentType":"application/javascript; charset=utf-8","ContentLength":3080,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/_framework/aspnetcore-browser-refresh.js","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMH85B7Q5OSP:00000003","RequestPath":"/_framework/aspnetcore-browser-refresh.js","ConnectionId":"0HMH85B7Q5OSP"}
+#Exc# 
+
+
+【INF】2022-04-27 16:49:16.839
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/v1/swagger.json","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMH85B7Q5OSP:00000004","RequestPath":"/swagger/v1/swagger.json","ConnectionId":"0HMH85B7Q5OSP"}
+#Exc# 
+
+
+【INF】2022-04-27 16:49:16.940
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 101.4853ms
+#Pro# {"ElapsedMilliseconds":101.4853,"StatusCode":200,"ContentType":"application/json;charset=utf-8","ContentLength":null,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/v1/swagger.json","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMH85B7Q5OSP:00000004","RequestPath":"/swagger/v1/swagger.json","ConnectionId":"0HMH85B7Q5OSP"}
+#Exc# 
+
+
+【INF】2022-04-27 16:49:20.508
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/api/Goods/GetGoodsList - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Goods/GetGoodsList","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMH85B7Q5OSP:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMH85B7Q5OSP"}
+#Exc# 
+
+
+【INF】2022-04-27 16:49:20.553
+#Msg# Executing endpoint 'Goods.Controllers.GoodsController.GetGoodsList (Goods)'
+#Pro# {"EventId":{"Name":"ExecutingEndpoint"},"SourceContext":"Microsoft.AspNetCore.Routing.EndpointMiddleware","RequestId":"0HMH85B7Q5OSP:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMH85B7Q5OSP"}
+#Exc# 
+
+
+【INF】2022-04-27 16:49:20.577
+#Msg# Route matched with {action = "GetGoodsList", controller = "Goods"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetGoodsList() on controller Goods.Controllers.GoodsController (Goods).
+#Pro# {"EventId":{"Id":3,"Name":"ControllerActionExecuting"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker","ActionId":"27c8ab22-bd58-4ea5-b33d-6c0c08b32466","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMH85B7Q5OSP:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMH85B7Q5OSP"}
+#Exc# 
+
+
+【INF】2022-04-27 16:49:21.254
+#Msg# Entity Framework Core 5.0.15 initialized 'GoodsDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+#Pro# {"EventId":{"Id":10403,"Name":"Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized"},"SourceContext":"Microsoft.EntityFrameworkCore.Infrastructure","ActionId":"27c8ab22-bd58-4ea5-b33d-6c0c08b32466","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMH85B7Q5OSP:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMH85B7Q5OSP"}
+#Exc# 
+
+
+【INF】2022-04-27 16:49:21.736
+#Msg# Executed DbCommand (24ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[GoodsDesc], [g].[GoodsName], [g].[GoodsPrice]
+FROM [Goods] AS [g]
+#Pro# {"EventId":{"Id":20101,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"27c8ab22-bd58-4ea5-b33d-6c0c08b32466","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMH85B7Q5OSP:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMH85B7Q5OSP"}
+#Exc# 
+
+
+【INF】2022-04-27 16:49:21.801
+#Msg# ActionName:Goods.Controllers.GoodsController.GetGoodsList (Goods)  {GUID}
+#Pro# {"SourceContext":"Goods.Tools.Filter.ActionFilter","ActionId":"27c8ab22-bd58-4ea5-b33d-6c0c08b32466","RequestId":"0HMH85B7Q5OSP:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMH85B7Q5OSP"}
+#Exc# 
+
+
+【INF】2022-04-27 16:49:21.814
+#Msg# Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Goods.Entity.Models.GoodsInfo, Goods.Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+#Pro# {"EventId":{"Id":1,"Name":"ObjectResultExecuting"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor","ActionId":"27c8ab22-bd58-4ea5-b33d-6c0c08b32466","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMH85B7Q5OSP:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMH85B7Q5OSP"}
+#Exc# 
+
+
+【INF】2022-04-27 16:49:21.832
+#Msg# Executed action Goods.Controllers.GoodsController.GetGoodsList (Goods) in 1246.9501ms
+#Pro# {"EventId":{"Id":2,"Name":"ActionExecuted"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker","ActionId":"27c8ab22-bd58-4ea5-b33d-6c0c08b32466","RequestId":"0HMH85B7Q5OSP:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMH85B7Q5OSP"}
+#Exc# 
+
+
+【INF】2022-04-27 16:49:21.834
+#Msg# Executed endpoint 'Goods.Controllers.GoodsController.GetGoodsList (Goods)'
+#Pro# {"EventId":{"Id":1,"Name":"ExecutedEndpoint"},"SourceContext":"Microsoft.AspNetCore.Routing.EndpointMiddleware","RequestId":"0HMH85B7Q5OSP:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMH85B7Q5OSP"}
+#Exc# 
+
+
+【INF】2022-04-27 16:49:21.839
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/api/Goods/GetGoodsList - - - 200 - application/json;+charset=utf-8 1331.2473ms
+#Pro# {"ElapsedMilliseconds":1331.2473,"StatusCode":200,"ContentType":"application/json; charset=utf-8","ContentLength":null,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Goods/GetGoodsList","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMH85B7Q5OSP:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMH85B7Q5OSP"}
+#Exc# 
+
+
+【INF】2022-04-27 16:54:30.424
+#Msg# User profile is available. Using 'C:\Users\1011751\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+#Pro# {"EventId":{"Id":63,"Name":"UsingProfileAsKeyRepositoryWithDPAPI"},"SourceContext":"Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager"}
+#Exc# 
+
+
+【INF】2022-04-27 16:54:30.766
+#Msg# Now listening on: http://localhost:5000
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-04-27 16:54:30.767
+#Msg# Application started. Press Ctrl+C to shut down.
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-04-27 16:54:30.768
+#Msg# Hosting environment: Development
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-04-27 16:54:30.769
+#Msg# Content root path: E:\demo\身份认证_日志_操作记录\Goods\Goods
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-04-27 16:54:31.562
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/index.html","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMH85E5NOFIV:00000002","RequestPath":"/swagger/index.html","ConnectionId":"0HMH85E5NOFIV"}
+#Exc# 
+
+
+【INF】2022-04-27 16:54:31.659
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 99.6665ms
+#Pro# {"ElapsedMilliseconds":99.6665,"StatusCode":200,"ContentType":"text/html;charset=utf-8","ContentLength":null,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/index.html","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMH85E5NOFIV:00000002","RequestPath":"/swagger/index.html","ConnectionId":"0HMH85E5NOFIV"}
+#Exc# 
+
+
+【INF】2022-04-27 16:54:31.683
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/_framework/aspnetcore-browser-refresh.js","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMH85E5NOFIV:00000003","RequestPath":"/_framework/aspnetcore-browser-refresh.js","ConnectionId":"0HMH85E5NOFIV"}
+#Exc# 
+
+
+【INF】2022-04-27 16:54:31.686
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 3080 application/javascript;+charset=utf-8 3.5890ms
+#Pro# {"ElapsedMilliseconds":3.589,"StatusCode":200,"ContentType":"application/javascript; charset=utf-8","ContentLength":3080,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/_framework/aspnetcore-browser-refresh.js","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMH85E5NOFIV:00000003","RequestPath":"/_framework/aspnetcore-browser-refresh.js","ConnectionId":"0HMH85E5NOFIV"}
+#Exc# 
+
+
+【INF】2022-04-27 16:54:31.803
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/v1/swagger.json","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMH85E5NOFIV:00000004","RequestPath":"/swagger/v1/swagger.json","ConnectionId":"0HMH85E5NOFIV"}
+#Exc# 
+
+
+【INF】2022-04-27 16:54:31.879
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 76.3589ms
+#Pro# {"ElapsedMilliseconds":76.3589,"StatusCode":200,"ContentType":"application/json;charset=utf-8","ContentLength":null,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/v1/swagger.json","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMH85E5NOFIV:00000004","RequestPath":"/swagger/v1/swagger.json","ConnectionId":"0HMH85E5NOFIV"}
+#Exc# 
+
+
+【INF】2022-04-27 16:56:48.281
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/api/Goods/GetGoodsList - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Goods/GetGoodsList","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMH85E5NOFJ1:00000002","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMH85E5NOFJ1"}
+#Exc# 
+
+
+【INF】2022-04-27 16:56:48.311
+#Msg# Executing endpoint 'Goods.Controllers.GoodsController.GetGoodsList (Goods)'
+#Pro# {"EventId":{"Name":"ExecutingEndpoint"},"SourceContext":"Microsoft.AspNetCore.Routing.EndpointMiddleware","RequestId":"0HMH85E5NOFJ1:00000002","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMH85E5NOFJ1"}
+#Exc# 
+
+
+【INF】2022-04-27 16:56:48.333
+#Msg# Route matched with {action = "GetGoodsList", controller = "Goods"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetGoodsList() on controller Goods.Controllers.GoodsController (Goods).
+#Pro# {"EventId":{"Id":3,"Name":"ControllerActionExecuting"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker","ActionId":"fe57b4ac-8b81-41d0-b41d-0a794f427a88","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMH85E5NOFJ1:00000002","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMH85E5NOFJ1"}
+#Exc# 
+
+
+【INF】2022-04-27 16:56:48.881
+#Msg# Entity Framework Core 5.0.15 initialized 'GoodsDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+#Pro# {"EventId":{"Id":10403,"Name":"Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized"},"SourceContext":"Microsoft.EntityFrameworkCore.Infrastructure","ActionId":"fe57b4ac-8b81-41d0-b41d-0a794f427a88","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMH85E5NOFJ1:00000002","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMH85E5NOFJ1"}
+#Exc# 
+
+
+【INF】2022-04-27 16:56:49.343
+#Msg# Executed DbCommand (21ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[GoodsDesc], [g].[GoodsName], [g].[GoodsPrice]
+FROM [Goods] AS [g]
+#Pro# {"EventId":{"Id":20101,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"fe57b4ac-8b81-41d0-b41d-0a794f427a88","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMH85E5NOFJ1:00000002","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMH85E5NOFJ1"}
+#Exc# 
+
+
+【INF】2022-04-27 16:56:49.408
+#Msg# ActionName:Goods.Controllers.GoodsController.GetGoodsList (Goods)  {GUID}
+#Pro# {"SourceContext":"Goods.Tools.Filter.ActionFilter","ActionId":"fe57b4ac-8b81-41d0-b41d-0a794f427a88","RequestId":"0HMH85E5NOFJ1:00000002","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMH85E5NOFJ1"}
+#Exc# 
+
+
+【INF】2022-04-27 16:56:49.420
+#Msg# Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Goods.Entity.Models.GoodsInfo, Goods.Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+#Pro# {"EventId":{"Id":1,"Name":"ObjectResultExecuting"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor","ActionId":"fe57b4ac-8b81-41d0-b41d-0a794f427a88","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMH85E5NOFJ1:00000002","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMH85E5NOFJ1"}
+#Exc# 
+
+
+【INF】2022-04-27 16:56:49.438
+#Msg# Executed action Goods.Controllers.GoodsController.GetGoodsList (Goods) in 1095.7632ms
+#Pro# {"EventId":{"Id":2,"Name":"ActionExecuted"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker","ActionId":"fe57b4ac-8b81-41d0-b41d-0a794f427a88","RequestId":"0HMH85E5NOFJ1:00000002","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMH85E5NOFJ1"}
+#Exc# 
+
+
+【INF】2022-04-27 16:56:49.440
+#Msg# Executed endpoint 'Goods.Controllers.GoodsController.GetGoodsList (Goods)'
+#Pro# {"EventId":{"Id":1,"Name":"ExecutedEndpoint"},"SourceContext":"Microsoft.AspNetCore.Routing.EndpointMiddleware","RequestId":"0HMH85E5NOFJ1:00000002","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMH85E5NOFJ1"}
+#Exc# 
+
+
+【INF】2022-04-27 16:56:49.444
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/api/Goods/GetGoodsList - - - 200 - application/json;+charset=utf-8 1162.6116ms
+#Pro# {"ElapsedMilliseconds":1162.6116,"StatusCode":200,"ContentType":"application/json; charset=utf-8","ContentLength":null,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Goods/GetGoodsList","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMH85E5NOFJ1:00000002","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMH85E5NOFJ1"}
+#Exc# 
+

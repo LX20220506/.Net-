@@ -1,0 +1,16 @@
+E:\demo\algorithm\algorithm\二維數組的遍歷\bin\Debug\net5.0\二維數組的遍歷.exe
+E:\demo\algorithm\algorithm\二維數組的遍歷\bin\Debug\net5.0\二維數組的遍歷.deps.json
+E:\demo\algorithm\algorithm\二維數組的遍歷\bin\Debug\net5.0\二維數組的遍歷.runtimeconfig.json
+E:\demo\algorithm\algorithm\二維數組的遍歷\bin\Debug\net5.0\二維數組的遍歷.runtimeconfig.dev.json
+E:\demo\algorithm\algorithm\二維數組的遍歷\bin\Debug\net5.0\二維數組的遍歷.dll
+E:\demo\algorithm\algorithm\二維數組的遍歷\bin\Debug\net5.0\ref\二維數組的遍歷.dll
+E:\demo\algorithm\algorithm\二維數組的遍歷\bin\Debug\net5.0\二維數組的遍歷.pdb
+E:\demo\algorithm\algorithm\二維數組的遍歷\obj\Debug\net5.0\二維數組的遍歷.csproj.AssemblyReference.cache
+E:\demo\algorithm\algorithm\二維數組的遍歷\obj\Debug\net5.0\二維數組的遍歷.GeneratedMSBuildEditorConfig.editorconfig
+E:\demo\algorithm\algorithm\二維數組的遍歷\obj\Debug\net5.0\二維數組的遍歷.AssemblyInfoInputs.cache
+E:\demo\algorithm\algorithm\二維數組的遍歷\obj\Debug\net5.0\二維數組的遍歷.AssemblyInfo.cs
+E:\demo\algorithm\algorithm\二維數組的遍歷\obj\Debug\net5.0\二維數組的遍歷.csproj.CoreCompileInputs.cache
+E:\demo\algorithm\algorithm\二維數組的遍歷\obj\Debug\net5.0\二維數組的遍歷.dll
+E:\demo\algorithm\algorithm\二維數組的遍歷\obj\Debug\net5.0\ref\二維數組的遍歷.dll
+E:\demo\algorithm\algorithm\二維數組的遍歷\obj\Debug\net5.0\二維數組的遍歷.pdb
+E:\demo\algorithm\algorithm\二維數組的遍歷\obj\Debug\net5.0\二維數組的遍歷.genruntimeconfig.cache
