@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "emNNKwIl3LKaQcvZHSDYmP43y4prEGPFrYYhp0xKQkuaq8L8cG/lb9oBfYvF6l6zcCWia16539rdPQznjzReKA==",
+  "dgSpecHash": "FOirHYeSPC5Sb7jzGLsp3GBhCFWeP5UUvmGYkCGgQJRJFMQ/yyZ0EoAphGFmPMdwkxPOXGRtNStOnj0iBTMTyw==",
   "success": true,
   "projectFilePath": "E:\\demo\\RabbitMQ\\RabbitMQ高级特性\\Demo.RabbitMq\\Demo.RabbitMq.HttpApi.Order\\Demo.RabbitMq.HttpApi.Order.csproj",
   "expectedPackageFiles": [

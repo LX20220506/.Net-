@@ -11,6 +11,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Demo.RabbitMq.HttpApi.Order.Extension;
+using Demo.RabbitMq.Service;
+using Demo.RabbitMq.Base.RabbitMq.Producer;
 
 namespace Demo.RabbitMq.HttpApi.Order
 {
@@ -35,6 +37,10 @@ namespace Demo.RabbitMq.HttpApi.Order
 
             // 添加RabbitMQ服务
             services.AddConfigureRabbitContext(Configuration);
+            // 注入服务
+            services.AddScoped<IRabbitProducer, RabbitProducer>();
+            services.AddScoped<IOrderService, OrderService>();
+            
         }
 
 

@@ -97,6 +97,19 @@
         "runtime": {
           "bin/placeholder/Demo.RabbitMq.Base.RabbitMq.dll": {}
         }
+      },
+      "Demo.RabbitMq.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Demo.RabbitMq.Base.RabbitMq": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Demo.RabbitMq.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Demo.RabbitMq.Service.dll": {}
+        }
       }
     }
   },
@@ -234,11 +247,17 @@
       "type": "project",
       "path": "../Demo.RabbitMq.Base.RabbitMq/Demo.RabbitMq.Base.RabbitMq.csproj",
       "msbuildProject": "../Demo.RabbitMq.Base.RabbitMq/Demo.RabbitMq.Base.RabbitMq.csproj"
+    },
+    "Demo.RabbitMq.Service/1.0.0": {
+      "type": "project",
+      "path": "../Demo.RabbitMq.Service/Demo.RabbitMq.Service.csproj",
+      "msbuildProject": "../Demo.RabbitMq.Service/Demo.RabbitMq.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Demo.RabbitMq.Base.RabbitMq >= 1.0.0",
+      "Demo.RabbitMq.Service >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -278,6 +297,9 @@
           "projectReferences": {
             "E:\\demo\\RabbitMQ\\RabbitMQ高级特性\\Demo.RabbitMq\\Demo.RabbitMq.Base.RabbitMq\\Demo.RabbitMq.Base.RabbitMq.csproj": {
               "projectPath": "E:\\demo\\RabbitMQ\\RabbitMQ高级特性\\Demo.RabbitMq\\Demo.RabbitMq.Base.RabbitMq\\Demo.RabbitMq.Base.RabbitMq.csproj"
+            },
+            "E:\\demo\\RabbitMQ\\RabbitMQ高级特性\\Demo.RabbitMq\\Demo.RabbitMq.Service\\Demo.RabbitMq.Service.csproj": {
+              "projectPath": "E:\\demo\\RabbitMQ\\RabbitMQ高级特性\\Demo.RabbitMq\\Demo.RabbitMq.Service\\Demo.RabbitMq.Service.csproj"
             }
           }
         }

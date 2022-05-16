@@ -9,11 +9,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Demo.RabbitMq.Base.RabbitMq\Demo.RabbitMq.Base.RabbitMq.csproj" />
+    <ProjectReference Include="..\Demo.RabbitMq.Service\Demo.RabbitMq.Service.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,0 +1,15 @@
+E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Service\bin\Debug\net5.0\Demo.RabbitMq.Service.deps.json
+E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Service\bin\Debug\net5.0\Demo.RabbitMq.Service.dll
+E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Service\bin\Debug\net5.0\ref\Demo.RabbitMq.Service.dll
+E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Service\bin\Debug\net5.0\Demo.RabbitMq.Service.pdb
+E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Service\bin\Debug\net5.0\Demo.RabbitMq.Base.RabbitMq.dll
+E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Service\bin\Debug\net5.0\Demo.RabbitMq.Base.RabbitMq.pdb
+E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Service\obj\Debug\net5.0\Demo.RabbitMq.Service.csproj.AssemblyReference.cache
+E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Service\obj\Debug\net5.0\Demo.RabbitMq.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Service\obj\Debug\net5.0\Demo.RabbitMq.Service.AssemblyInfoInputs.cache
+E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Service\obj\Debug\net5.0\Demo.RabbitMq.Service.AssemblyInfo.cs
+E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Service\obj\Debug\net5.0\Demo.RabbitMq.Service.csproj.CoreCompileInputs.cache
+E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Service\obj\Debug\net5.0\Demo.RabbitMq.Service.csproj.CopyComplete
+E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Service\obj\Debug\net5.0\Demo.RabbitMq.Service.dll
+E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Service\obj\Debug\net5.0\ref\Demo.RabbitMq.Service.dll
+E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Service\obj\Debug\net5.0\Demo.RabbitMq.Service.pdb

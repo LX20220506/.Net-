@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+Y8QlEpNgVUInJ7im4/F61toQgZjswJ739TIkifWD0nvGfWL38ePp7IMeuha0hhTv8SmtaS/VPrW54Dnx1+Dmw==",
+  "dgSpecHash": "kDV2ONsxjdJDdIWuMOyYZrN0pW/gDjNJwwgNNd9BkRKaf0uKd+jcPstc+tRT/E/fIwfXdE+WSwYv3XD4OR0zzw==",
   "success": true,
   "projectFilePath": "E:\\demo\\RabbitMQ\\RabbitMQ高级特性\\Demo.RabbitMq\\Demo.RabbitMq.Service\\Demo.RabbitMq.Service.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\1011751\\.nuget\\packages\\rabbitmq.client\\5.2.0\\rabbitmq.client.5.2.0.nupkg.sha512"
+  ],
   "logs": []
 }

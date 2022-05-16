@@ -2,12 +2,13 @@
 
 namespace Demo.RabbitMq.Base.RabbitMq.Config
 {
-    public class RabbitContext
+    public class RabbitConnection
     {
-        private readonly RabbitMqOptions _rabbitMqOptions;
-        private IConnection _conn = null;
+        private readonly RabbitMqOptions _rabbitMqOptions; // 配置信息
+        private IConnection _conn = null; // 连接器
 
-        public RabbitContext(RabbitMqOptions rabbitMqOptions) {
+        // 在构造函数中加载配置
+        public RabbitConnection(RabbitMqOptions rabbitMqOptions) {
             _rabbitMqOptions = rabbitMqOptions;
         }
 
@@ -20,6 +21,7 @@ namespace Demo.RabbitMq.Base.RabbitMq.Config
             {
                 if (string.IsNullOrEmpty(_rabbitMqOptions.Address))
                 {
+                    // 创建连接工厂
                     var factory = new ConnectionFactory();
                     factory.HostName = _rabbitMqOptions.HostName;
                     factory.Port = _rabbitMqOptions.Port;
@@ -27,11 +29,13 @@ namespace Demo.RabbitMq.Base.RabbitMq.Config
                     factory.Password = _rabbitMqOptions.Password;
                     factory.VirtualHost = _rabbitMqOptions.VirtualHost;
 
-                    _conn = factory.CreateConnection();
+                    // 创建连接器
+                    _conn = factory.CreateConnection(); 
                 }
             }
 
-            return _conn;
+            // 返回连接器
+            return _conn; 
         }
     }
 }

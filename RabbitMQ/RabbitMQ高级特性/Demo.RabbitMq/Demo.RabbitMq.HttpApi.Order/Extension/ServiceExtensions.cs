@@ -15,7 +15,7 @@ namespace Demo.RabbitMq.HttpApi.Order.Extension
 
             // ioc中注入RabbitContext对象
             services.AddSingleton(
-                new RabbitContext(
+                new RabbitConnection(
                     section.Get<RabbitMqOptions>() // 将配置类中的RabbitMQ配置，映射成 RabbitMqOptions类
                     )
                 );

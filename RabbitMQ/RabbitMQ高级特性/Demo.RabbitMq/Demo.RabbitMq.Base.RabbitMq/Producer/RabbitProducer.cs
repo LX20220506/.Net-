@@ -10,9 +10,9 @@ namespace Demo.RabbitMq.Base.RabbitMq.Producer
 {
     public class RabbitProducer : IRabbitProducer
     {
-        private readonly RabbitContext _rabbitContext;
+        private readonly RabbitConnection _rabbitContext;
 
-        public RabbitProducer(RabbitContext rabbitContext) {
+        public RabbitProducer(RabbitConnection rabbitContext) {
             _rabbitContext = rabbitContext;
         }
 

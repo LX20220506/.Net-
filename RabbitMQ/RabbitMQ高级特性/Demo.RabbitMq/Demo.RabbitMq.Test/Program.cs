@@ -22,7 +22,7 @@ namespace Demo.RabbitMq.Test
 
             var host = new HostBuilder()
                 .ConfigureServices(collection => collection
-                    .AddSingleton(new RabbitContext(RabbitConfig.Get<RabbitMqOptions>()))
+                    .AddSingleton(new RabbitConnection(RabbitConfig.Get<RabbitMqOptions>()))
                     .AddSingleton<IHostedService,ConsumerTest>())
                 .Build();
 
