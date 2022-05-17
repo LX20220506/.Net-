@@ -9,3 +9,4 @@ E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Base.RabbitMq\
 E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Base.RabbitMq\obj\Debug\net5.0\Demo.RabbitMq.Base.RabbitMq.dll
 E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Base.RabbitMq\obj\Debug\net5.0\ref\Demo.RabbitMq.Base.RabbitMq.dll
 E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Base.RabbitMq\obj\Debug\net5.0\Demo.RabbitMq.Base.RabbitMq.pdb
+E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Base.RabbitMq\obj\Debug\net5.0\Demo.RabbitMq.Base.RabbitMq.csproj.AssemblyReference.cache

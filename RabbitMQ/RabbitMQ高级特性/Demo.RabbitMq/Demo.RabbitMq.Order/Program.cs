@@ -20,7 +20,7 @@ namespace Demo.RabbitMq.Order
             var host = new HostBuilder()
                 .ConfigureServices(collection => collection
                     .AddSingleton(new RabbitConnection(RabbitConfig.Get<RabbitMqOptions>())) // 注入RabbitMQ的连接器
-                    .AddScoped<IPrcOrderService, PrcOrderService>()
+                    .AddScoped<IPrcOrderService, PrcOrderService>() 
                     .AddSingleton<IHostedService, Order>()) // IHostedService接口是一个托管服务，当服务启动时，会和服务一起启动
                 .Build();
 

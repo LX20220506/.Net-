@@ -53,6 +53,7 @@ namespace Demo.RabbitMq.ConsumerTest
             RabbitChannelManager channelManager = new RabbitChannelManager(_connection);
             foreach (var queueInfo in Queue)
             {
+                // 开始接受消息
                 RabbitChannelConfig channel = channelManager.CreateReceivChannel(queueInfo.ExchangeType,
                     queueInfo.Exchange, queueInfo.Queue, queueInfo.RoutingKey);
                 channel.OnReceivedCallback = queueInfo.OnReceived;

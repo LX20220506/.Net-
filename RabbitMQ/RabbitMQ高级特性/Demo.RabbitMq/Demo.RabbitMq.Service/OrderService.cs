@@ -42,11 +42,12 @@ namespace Demo.RabbitMq.Service
             Console.WriteLine("短信/邮件异步通知");
             Console.WriteLine($"Send Message:{JsonConvert.SerializeObject(message)}");
 
-            _rabbitProducer.Publish("Order", "",
-                new Dictionary<string, object> { // 添加属性
-                    { "x-delay",1000*20} // 增加TTL过期时间，（当过期时间过后，消息任未被处理，则消息会成为死信）
-                }
-                , JsonConvert.SerializeObject(message));
+            // 发送消息
+            _rabbitProducer.Publish(exchange: "Order", routingKey: "",
+                props: new Dictionary<string, object> { // 添加属性
+                            { "x-delay",1000*20} // 增加TTL过期时间，（当过期时间过后，消息任未被处理，则消息会成为死信）
+                        },
+                content: JsonConvert.SerializeObject(message));
         }
     }
 }

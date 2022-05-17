@@ -19,7 +19,7 @@ namespace Demo.RabbitMq.Base.RabbitMq.Consumer
             this.Connection = connection;
         }
         /// <summary>
-        /// 创建接受管道
+        /// 创建接收管道
         /// </summary>
         public RabbitChannelConfig CreateReceivChannel(string exchangeType,string exchange,string queue,string routingKey,IDictionary<string,object> arguments=null) 
         {
