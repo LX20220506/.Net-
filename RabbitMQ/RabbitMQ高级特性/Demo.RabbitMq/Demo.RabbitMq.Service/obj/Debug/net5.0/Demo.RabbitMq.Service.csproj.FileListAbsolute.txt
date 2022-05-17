@@ -13,3 +13,5 @@ E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Service\obj\De
 E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Service\obj\Debug\net5.0\Demo.RabbitMq.Service.dll
 E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Service\obj\Debug\net5.0\ref\Demo.RabbitMq.Service.dll
 E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Service\obj\Debug\net5.0\Demo.RabbitMq.Service.pdb
+E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Service\bin\Debug\net5.0\Demo.RabbitMq.Entity.dll
+E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Service\bin\Debug\net5.0\Demo.RabbitMq.Entity.pdb

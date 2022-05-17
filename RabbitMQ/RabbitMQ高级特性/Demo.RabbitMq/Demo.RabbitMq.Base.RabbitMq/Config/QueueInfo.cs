@@ -17,6 +17,8 @@ namespace Demo.RabbitMq.Base.RabbitMq.Config
 
         public string  RoutingKey { get; set; }
 
+        public IDictionary<string,object> Props { get; set; }
+
         public Action<RabbitMessageEntity> OnReceived { get; set; }
     }
 }

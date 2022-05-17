@@ -5,7 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Demo.RabbitMq.Base.RabbitMq\Demo.RabbitMq.Base.RabbitMq.csproj" />
+    <ProjectReference Include="..\Demo.RabbitMq.Entity\Demo.RabbitMq.Entity.csproj" />
   </ItemGroup>
 
 </Project>

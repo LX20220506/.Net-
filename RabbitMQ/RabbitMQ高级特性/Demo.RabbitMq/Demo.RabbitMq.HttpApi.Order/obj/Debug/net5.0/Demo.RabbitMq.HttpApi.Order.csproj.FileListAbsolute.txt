@@ -32,3 +32,6 @@ E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.HttpApi.Order\
 E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.HttpApi.Order\obj\Debug\net5.0\ref\Demo.RabbitMq.HttpApi.Order.dll
 E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.HttpApi.Order\obj\Debug\net5.0\Demo.RabbitMq.HttpApi.Order.pdb
 E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.HttpApi.Order\obj\Debug\net5.0\Demo.RabbitMq.HttpApi.Order.genruntimeconfig.cache
+E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.HttpApi.Order\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.HttpApi.Order\bin\Debug\net5.0\Demo.RabbitMq.Entity.dll
+E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.HttpApi.Order\bin\Debug\net5.0\Demo.RabbitMq.Entity.pdb

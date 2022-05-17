@@ -20,7 +20,13 @@ namespace Demo.RabbitMq.HttpApi.Order.Controllers
 
         [HttpGet]
         public IActionResult Test(string message) {
-            _orderService.SendTestMessage(message);
+            _orderService.SendMessage(message);
+            return Ok();
+        }
+
+        [HttpGet]
+        public IActionResult GetOrderMessage() {
+            _orderService.SendMessage();
             return Ok();
         }
     }

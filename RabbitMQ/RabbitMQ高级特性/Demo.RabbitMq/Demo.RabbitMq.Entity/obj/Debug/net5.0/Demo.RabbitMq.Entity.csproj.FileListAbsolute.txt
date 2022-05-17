@@ -2,7 +2,6 @@ E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Entity\bin\Deb
 E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Entity\bin\Debug\net5.0\Demo.RabbitMq.Entity.dll
 E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Entity\bin\Debug\net5.0\ref\Demo.RabbitMq.Entity.dll
 E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Entity\bin\Debug\net5.0\Demo.RabbitMq.Entity.pdb
-E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Entity\obj\Debug\net5.0\Demo.RabbitMq.Entity.csproj.AssemblyReference.cache
 E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Entity\obj\Debug\net5.0\Demo.RabbitMq.Entity.GeneratedMSBuildEditorConfig.editorconfig
 E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Entity\obj\Debug\net5.0\Demo.RabbitMq.Entity.AssemblyInfoInputs.cache
 E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Entity\obj\Debug\net5.0\Demo.RabbitMq.Entity.AssemblyInfo.cs

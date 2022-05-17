@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Demo.RabbitMq.Entity;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,9 @@ namespace Demo.RabbitMq.Service
 {
     public interface IOrderService
     {
-        public void SendTestMessage(string message);
+        public void SendMessage(string message);
+        public void SendMessage();
+
+        
     }
 }
