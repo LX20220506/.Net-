@@ -9,3 +9,4 @@ E:\demo\Redis\Demo.Redis\Demo.Redis.Base.Redis\obj\Debug\net5.0\Demo.Redis.Base.
 E:\demo\Redis\Demo.Redis\Demo.Redis.Base.Redis\obj\Debug\net5.0\Demo.Redis.Base.Redis.dll
 E:\demo\Redis\Demo.Redis\Demo.Redis.Base.Redis\obj\Debug\net5.0\ref\Demo.Redis.Base.Redis.dll
 E:\demo\Redis\Demo.Redis\Demo.Redis.Base.Redis\obj\Debug\net5.0\Demo.Redis.Base.Redis.pdb
+E:\demo\Redis\Demo.Redis\Demo.Redis.Base.Redis\obj\Debug\net5.0\Demo.Redis.Base.Redis.csproj.AssemblyReference.cache
