@@ -19,7 +19,6 @@ namespace Demo.RabbitMq.Base.RabbitMq.Config
         public IConnection GetRabbitMqConnection() {
             if (_conn==null)
             {
-				// 沒有添加Address,这个RabbitMQ集群中用到的
                 if (string.IsNullOrEmpty(_rabbitMqOptions.Address))
                 {
                     // 创建连接工厂
