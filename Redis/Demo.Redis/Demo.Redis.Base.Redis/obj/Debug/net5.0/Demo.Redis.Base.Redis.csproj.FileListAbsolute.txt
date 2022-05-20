@@ -1,0 +1,11 @@
+E:\demo\Redis\Demo.Redis\Demo.Redis.Base.Redis\bin\Debug\net5.0\Demo.Redis.Base.Redis.deps.json
+E:\demo\Redis\Demo.Redis\Demo.Redis.Base.Redis\bin\Debug\net5.0\Demo.Redis.Base.Redis.dll
+E:\demo\Redis\Demo.Redis\Demo.Redis.Base.Redis\bin\Debug\net5.0\ref\Demo.Redis.Base.Redis.dll
+E:\demo\Redis\Demo.Redis\Demo.Redis.Base.Redis\bin\Debug\net5.0\Demo.Redis.Base.Redis.pdb
+E:\demo\Redis\Demo.Redis\Demo.Redis.Base.Redis\obj\Debug\net5.0\Demo.Redis.Base.Redis.GeneratedMSBuildEditorConfig.editorconfig
+E:\demo\Redis\Demo.Redis\Demo.Redis.Base.Redis\obj\Debug\net5.0\Demo.Redis.Base.Redis.AssemblyInfoInputs.cache
+E:\demo\Redis\Demo.Redis\Demo.Redis.Base.Redis\obj\Debug\net5.0\Demo.Redis.Base.Redis.AssemblyInfo.cs
+E:\demo\Redis\Demo.Redis\Demo.Redis.Base.Redis\obj\Debug\net5.0\Demo.Redis.Base.Redis.csproj.CoreCompileInputs.cache
+E:\demo\Redis\Demo.Redis\Demo.Redis.Base.Redis\obj\Debug\net5.0\Demo.Redis.Base.Redis.dll
+E:\demo\Redis\Demo.Redis\Demo.Redis.Base.Redis\obj\Debug\net5.0\ref\Demo.Redis.Base.Redis.dll
+E:\demo\Redis\Demo.Redis\Demo.Redis.Base.Redis\obj\Debug\net5.0\Demo.Redis.Base.Redis.pdb

@@ -1,0 +1,436 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.HttpApi\\Demo.Redis.HttpApi.csproj": {}
+  },
+  "projects": {
+    "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.Base.Redis\\Demo.Redis.Base.Redis.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.Base.Redis\\Demo.Redis.Base.Redis.csproj",
+        "projectName": "Demo.Redis.Base.Redis",
+        "projectPath": "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.Base.Redis\\Demo.Redis.Base.Redis.csproj",
+        "packagesPath": "C:\\Users\\1011751\\.nuget\\packages\\",
+        "outputPath": "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.Base.Redis\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\1011751\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.5.61, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.EF\\Demo.Redis.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.EF\\Demo.Redis.EF.csproj",
+        "projectName": "Demo.Redis.EF",
+        "projectPath": "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.EF\\Demo.Redis.EF.csproj",
+        "packagesPath": "C:\\Users\\1011751\\.nuget\\packages\\",
+        "outputPath": "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\1011751\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.Entity\\Demo.Redis.Entity.csproj": {
+                "projectPath": "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.Entity\\Demo.Redis.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.Entity\\Demo.Redis.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.Entity\\Demo.Redis.Entity.csproj",
+        "projectName": "Demo.Redis.Entity",
+        "projectPath": "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.Entity\\Demo.Redis.Entity.csproj",
+        "packagesPath": "C:\\Users\\1011751\\.nuget\\packages\\",
+        "outputPath": "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\1011751\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.HttpApi\\Demo.Redis.HttpApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.HttpApi\\Demo.Redis.HttpApi.csproj",
+        "projectName": "Demo.Redis.HttpApi",
+        "projectPath": "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.HttpApi\\Demo.Redis.HttpApi.csproj",
+        "packagesPath": "C:\\Users\\1011751\\.nuget\\packages\\",
+        "outputPath": "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.HttpApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\1011751\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.Base.Redis\\Demo.Redis.Base.Redis.csproj": {
+                "projectPath": "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.Base.Redis\\Demo.Redis.Base.Redis.csproj"
+              },
+              "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.EF\\Demo.Redis.EF.csproj": {
+                "projectPath": "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.EF\\Demo.Redis.EF.csproj"
+              },
+              "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.Repository\\Demo.Redis.Repository.csproj": {
+                "projectPath": "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.Repository\\Demo.Redis.Repository.csproj"
+              },
+              "E:\\demo\\Redis\\Demo.Redis\\Demp.Redis.IRepository\\Demo.Redis.IRepository.csproj": {
+                "projectPath": "E:\\demo\\Redis\\Demo.Redis\\Demp.Redis.IRepository\\Demo.Redis.IRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.Repository\\Demo.Redis.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.Repository\\Demo.Redis.Repository.csproj",
+        "projectName": "Demo.Redis.Repository",
+        "projectPath": "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.Repository\\Demo.Redis.Repository.csproj",
+        "packagesPath": "C:\\Users\\1011751\\.nuget\\packages\\",
+        "outputPath": "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\1011751\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.EF\\Demo.Redis.EF.csproj": {
+                "projectPath": "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.EF\\Demo.Redis.EF.csproj"
+              },
+              "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.Entity\\Demo.Redis.Entity.csproj": {
+                "projectPath": "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.Entity\\Demo.Redis.Entity.csproj"
+              },
+              "E:\\demo\\Redis\\Demo.Redis\\Demp.Redis.IRepository\\Demo.Redis.IRepository.csproj": {
+                "projectPath": "E:\\demo\\Redis\\Demo.Redis\\Demp.Redis.IRepository\\Demo.Redis.IRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\demo\\Redis\\Demo.Redis\\Demp.Redis.IRepository\\Demo.Redis.IRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\demo\\Redis\\Demo.Redis\\Demp.Redis.IRepository\\Demo.Redis.IRepository.csproj",
+        "projectName": "Demo.Redis.IRepository",
+        "projectPath": "E:\\demo\\Redis\\Demo.Redis\\Demp.Redis.IRepository\\Demo.Redis.IRepository.csproj",
+        "packagesPath": "C:\\Users\\1011751\\.nuget\\packages\\",
+        "outputPath": "E:\\demo\\Redis\\Demo.Redis\\Demp.Redis.IRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\1011751\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.Entity\\Demo.Redis.Entity.csproj": {
+                "projectPath": "E:\\demo\\Redis\\Demo.Redis\\Demo.Redis.Entity\\Demo.Redis.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

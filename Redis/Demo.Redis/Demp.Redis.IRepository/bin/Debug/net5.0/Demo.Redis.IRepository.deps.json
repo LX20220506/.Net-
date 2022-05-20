@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Demo.Redis.IRepository/1.0.0": {
+        "dependencies": {
+          "Demo.Redis.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Demo.Redis.IRepository.dll": {}
+        }
+      },
+      "Demo.Redis.Entity/1.0.0": {
+        "runtime": {
+          "Demo.Redis.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo.Redis.IRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Demo.Redis.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

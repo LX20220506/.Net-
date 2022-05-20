@@ -1,0 +1,12 @@
+E:\demo\Redis\Demo.Redis\Demo.Redis.Service\bin\Debug\net5.0\Demo.Redis.Service.deps.json
+E:\demo\Redis\Demo.Redis\Demo.Redis.Service\bin\Debug\net5.0\Demo.Redis.Service.dll
+E:\demo\Redis\Demo.Redis\Demo.Redis.Service\bin\Debug\net5.0\ref\Demo.Redis.Service.dll
+E:\demo\Redis\Demo.Redis\Demo.Redis.Service\bin\Debug\net5.0\Demo.Redis.Service.pdb
+E:\demo\Redis\Demo.Redis\Demo.Redis.Service\obj\Debug\net5.0\Demo.Redis.Service.csproj.AssemblyReference.cache
+E:\demo\Redis\Demo.Redis\Demo.Redis.Service\obj\Debug\net5.0\Demo.Redis.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\demo\Redis\Demo.Redis\Demo.Redis.Service\obj\Debug\net5.0\Demo.Redis.Service.AssemblyInfoInputs.cache
+E:\demo\Redis\Demo.Redis\Demo.Redis.Service\obj\Debug\net5.0\Demo.Redis.Service.AssemblyInfo.cs
+E:\demo\Redis\Demo.Redis\Demo.Redis.Service\obj\Debug\net5.0\Demo.Redis.Service.csproj.CoreCompileInputs.cache
+E:\demo\Redis\Demo.Redis\Demo.Redis.Service\obj\Debug\net5.0\Demo.Redis.Service.dll
+E:\demo\Redis\Demo.Redis\Demo.Redis.Service\obj\Debug\net5.0\ref\Demo.Redis.Service.dll
+E:\demo\Redis\Demo.Redis\Demo.Redis.Service\obj\Debug\net5.0\Demo.Redis.Service.pdb

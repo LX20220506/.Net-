@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Demo.Redis.EF\Demo.Redis.EF.csproj" />
+    <ProjectReference Include="..\Demo.Redis.Entity\Demo.Redis.Entity.csproj" />
+    <ProjectReference Include="..\Demp.Redis.IRepository\Demo.Redis.IRepository.csproj" />
+  </ItemGroup>
+
+</Project>
