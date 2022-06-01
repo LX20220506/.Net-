@@ -21,32 +21,32 @@ const routes = [
   }
 ]
 
-//过滤器(跳转之前)
-router.beforeEach((to, from, next) => {
-  //to表示去哪里
-  //from表示从哪里来
-  //next表示下一步
-  let islogin = sessionStorage.getItem('token')!=null&&sessionStorage!="";
+// //过滤器(跳转之前)
+// router.beforeEach((to, from, next) => {
+//   //to表示去哪里
+//   //from表示从哪里来
+//   //next表示下一步
+//   let islogin = sessionStorage.getItem('token')!=null&&sessionStorage!="";
   
-  if(to.path == "/login"){
+//   if(to.path == "/login"){
     
-    if(islogin){
-      next("/");
-    }else{
-      next();
-    }
+//     if(islogin){
+//       next("/");
+//     }else{
+//       next();
+//     }
 
-  }else{
+//   }else{
    
-    // requireAuth:可以在路由元信息指定哪些页面需要登录权限
-    if( islogin) {
-      next();
-    }else{
-      next("/login");
-    }
+//     // requireAuth:可以在路由元信息指定哪些页面需要登录权限
+//     if( islogin) {
+//       next();
+//     }else{
+//       next("/login");
+//     }
 
-  }
-})
+//   }
+// })
 
 const router = createRouter({
   history: createWebHashHistory(),

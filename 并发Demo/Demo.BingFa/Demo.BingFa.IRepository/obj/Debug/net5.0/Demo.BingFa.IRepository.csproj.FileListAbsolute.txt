@@ -1,0 +1,17 @@
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.IRepository\bin\Debug\net5.0\Demo.BingFa.IRepository.deps.json
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.IRepository\bin\Debug\net5.0\Demo.BingFa.IRepository.dll
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.IRepository\bin\Debug\net5.0\ref\Demo.BingFa.IRepository.dll
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.IRepository\bin\Debug\net5.0\Demo.BingFa.IRepository.pdb
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.IRepository\bin\Debug\net5.0\Demo.BingFa.Base.Redis.dll
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.IRepository\bin\Debug\net5.0\Demo.BingFa.Entity.dll
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.IRepository\bin\Debug\net5.0\Demo.BingFa.Entity.pdb
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.IRepository\bin\Debug\net5.0\Demo.BingFa.Base.Redis.pdb
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.IRepository\obj\Debug\net5.0\Demo.BingFa.IRepository.csproj.AssemblyReference.cache
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.IRepository\obj\Debug\net5.0\Demo.BingFa.IRepository.GeneratedMSBuildEditorConfig.editorconfig
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.IRepository\obj\Debug\net5.0\Demo.BingFa.IRepository.AssemblyInfoInputs.cache
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.IRepository\obj\Debug\net5.0\Demo.BingFa.IRepository.AssemblyInfo.cs
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.IRepository\obj\Debug\net5.0\Demo.BingFa.IRepository.csproj.CoreCompileInputs.cache
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.IRepository\obj\Debug\net5.0\Demo.BingFa.IRepository.csproj.CopyComplete
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.IRepository\obj\Debug\net5.0\Demo.BingFa.IRepository.dll
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.IRepository\obj\Debug\net5.0\ref\Demo.BingFa.IRepository.dll
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.IRepository\obj\Debug\net5.0\Demo.BingFa.IRepository.pdb

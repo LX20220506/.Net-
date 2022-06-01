@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Demo.BingFa.Base.RabbitMQ\Demo.BingFa.Base.RabbitMQ.csproj" />
+    <ProjectReference Include="..\Demo.BingFa.Repostory\Demo.BingFa.Repostory.csproj" />
+  </ItemGroup>
+
+</Project>

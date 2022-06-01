@@ -1,0 +1,15 @@
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Entity\bin\Debug\net5.0\Demo.BingFa.Entity.deps.json
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Entity\bin\Debug\net5.0\Demo.BingFa.Entity.dll
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Entity\bin\Debug\net5.0\ref\Demo.BingFa.Entity.dll
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Entity\bin\Debug\net5.0\Demo.BingFa.Entity.pdb
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Entity\bin\Debug\net5.0\Demo.BingFa.Base.Redis.dll
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Entity\bin\Debug\net5.0\Demo.BingFa.Base.Redis.pdb
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Entity\obj\Debug\net5.0\Demo.BingFa.Entity.csproj.AssemblyReference.cache
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Entity\obj\Debug\net5.0\Demo.BingFa.Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Entity\obj\Debug\net5.0\Demo.BingFa.Entity.AssemblyInfoInputs.cache
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Entity\obj\Debug\net5.0\Demo.BingFa.Entity.AssemblyInfo.cs
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Entity\obj\Debug\net5.0\Demo.BingFa.Entity.csproj.CoreCompileInputs.cache
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Entity\obj\Debug\net5.0\Demo.BingFa.Entity.csproj.CopyComplete
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Entity\obj\Debug\net5.0\Demo.BingFa.Entity.dll
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Entity\obj\Debug\net5.0\ref\Demo.BingFa.Entity.dll
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Entity\obj\Debug\net5.0\Demo.BingFa.Entity.pdb

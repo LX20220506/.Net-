@@ -1,0 +1,12 @@
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Base.RabbitMQ\bin\Debug\net5.0\Demo.BingFa.Base.RabbitMQ.deps.json
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Base.RabbitMQ\bin\Debug\net5.0\Demo.BingFa.Base.RabbitMQ.dll
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Base.RabbitMQ\bin\Debug\net5.0\ref\Demo.BingFa.Base.RabbitMQ.dll
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Base.RabbitMQ\bin\Debug\net5.0\Demo.BingFa.Base.RabbitMQ.pdb
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Base.RabbitMQ\obj\Debug\net5.0\Demo.BingFa.Base.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Base.RabbitMQ\obj\Debug\net5.0\Demo.BingFa.Base.RabbitMQ.AssemblyInfoInputs.cache
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Base.RabbitMQ\obj\Debug\net5.0\Demo.BingFa.Base.RabbitMQ.AssemblyInfo.cs
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Base.RabbitMQ\obj\Debug\net5.0\Demo.BingFa.Base.RabbitMQ.csproj.CoreCompileInputs.cache
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Base.RabbitMQ\obj\Debug\net5.0\Demo.BingFa.Base.RabbitMQ.dll
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Base.RabbitMQ\obj\Debug\net5.0\ref\Demo.BingFa.Base.RabbitMQ.dll
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Base.RabbitMQ\obj\Debug\net5.0\Demo.BingFa.Base.RabbitMQ.pdb
+E:\demo\并发Demo\Demo.BingFa\Demo.BingFa.Base.RabbitMQ\obj\Debug\net5.0\Demo.BingFa.Base.RabbitMQ.csproj.AssemblyReference.cache

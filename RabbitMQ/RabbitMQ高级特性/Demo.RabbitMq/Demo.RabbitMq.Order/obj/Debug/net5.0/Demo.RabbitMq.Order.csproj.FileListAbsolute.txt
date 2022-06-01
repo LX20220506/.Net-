@@ -50,3 +50,4 @@ E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Order\obj\Debu
 E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Order\obj\Debug\net5.0\ref\Demo.RabbitMq.Order.dll
 E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Order\obj\Debug\net5.0\Demo.RabbitMq.Order.pdb
 E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Order\obj\Debug\net5.0\Demo.RabbitMq.Order.genruntimeconfig.cache
+E:\demo\RabbitMQ\RabbitMQ高级特性\Demo.RabbitMq\Demo.RabbitMq.Order\bin\Debug\net5.0\appsettings.json
