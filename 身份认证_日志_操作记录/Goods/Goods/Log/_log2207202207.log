@@ -1,0 +1,1403 @@
+﻿
+【INF】2022-07-06 17:20:49.906
+#Msg# User profile is available. Using 'C:\Users\1011751\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+#Pro# {"EventId":{"Id":63,"Name":"UsingProfileAsKeyRepositoryWithDPAPI"},"SourceContext":"Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager"}
+#Exc# 
+
+
+【INF】2022-07-06 17:20:50.742
+#Msg# Creating key {6aca624f-459c-44ed-8952-5c58cb613249} with creation date 2022-07-06 09:20:50Z, activation date 2022-07-06 09:20:50Z, and expiration date 2022-10-04 09:20:50Z.
+#Pro# {"EventId":{"Id":58,"Name":"CreatingKey"},"SourceContext":"Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager"}
+#Exc# 
+
+
+【INF】2022-07-06 17:20:50.828
+#Msg# Writing data to file 'C:\Users\1011751\AppData\Local\ASP.NET\DataProtection-Keys\key-6aca624f-459c-44ed-8952-5c58cb613249.xml'.
+#Pro# {"EventId":{"Id":39,"Name":"WritingDataToFile"},"SourceContext":"Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository"}
+#Exc# 
+
+
+【INF】2022-07-06 17:20:52.704
+#Msg# Now listening on: http://localhost:5000
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-07-06 17:20:52.709
+#Msg# Application started. Press Ctrl+C to shut down.
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-07-06 17:20:52.712
+#Msg# Hosting environment: Development
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-07-06 17:20:52.717
+#Msg# Content root path: E:\demo\身份认证_日志_操作记录\Goods\Goods
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:21.823
+#Msg# User profile is available. Using 'C:\Users\1011751\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+#Pro# {"EventId":{"Id":63,"Name":"UsingProfileAsKeyRepositoryWithDPAPI"},"SourceContext":"Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:22.643
+#Msg# Now listening on: http://localhost:5000
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:22.650
+#Msg# Application started. Press Ctrl+C to shut down.
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:22.654
+#Msg# Hosting environment: Development
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:22.658
+#Msg# Content root path: E:\demo\身份认证_日志_操作记录\Goods\Goods
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:26.232
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/index.html","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCH5:00000002","RequestPath":"/swagger/index.html","ConnectionId":"0HMIV6581SCH5"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:27.335
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 1088.8883ms
+#Pro# {"ElapsedMilliseconds":1088.8883,"StatusCode":200,"ContentType":"text/html;charset=utf-8","ContentLength":null,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/index.html","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCH5:00000002","RequestPath":"/swagger/index.html","ConnectionId":"0HMIV6581SCH5"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:27.975
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/swagger-ui-bundle.js","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCH4:00000002","RequestPath":"/swagger/swagger-ui-bundle.js","ConnectionId":"0HMIV6581SCH4"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:27.980
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/swagger-ui-standalone-preset.js","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCH6:00000002","RequestPath":"/swagger/swagger-ui-standalone-preset.js","ConnectionId":"0HMIV6581SCH6"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:27.981
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/swagger-ui.css","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCH5:00000003","RequestPath":"/swagger/swagger-ui.css","ConnectionId":"0HMIV6581SCH5"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:28.149
+#Msg# The file /swagger-ui-bundle.js was not modified
+#Pro# {"EventId":{"Id":6,"Name":"FileNotModified"},"SourceContext":"Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware","RequestId":"0HMIV6581SCH4:00000002","RequestPath":"/swagger/swagger-ui-bundle.js","ConnectionId":"0HMIV6581SCH4"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:28.153
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - - - 304 - application/javascript 178.0349ms
+#Pro# {"ElapsedMilliseconds":178.0349,"StatusCode":304,"ContentType":"application/javascript","ContentLength":null,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/swagger-ui-bundle.js","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCH4:00000002","RequestPath":"/swagger/swagger-ui-bundle.js","ConnectionId":"0HMIV6581SCH4"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:28.171
+#Msg# The file /swagger-ui.css was not modified
+#Pro# {"EventId":{"Id":6,"Name":"FileNotModified"},"SourceContext":"Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware","RequestId":"0HMIV6581SCH5:00000003","RequestPath":"/swagger/swagger-ui.css","ConnectionId":"0HMIV6581SCH5"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:28.173
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - - - 304 - text/css 191.5415ms
+#Pro# {"ElapsedMilliseconds":191.5415,"StatusCode":304,"ContentType":"text/css","ContentLength":null,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/swagger-ui.css","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCH5:00000003","RequestPath":"/swagger/swagger-ui.css","ConnectionId":"0HMIV6581SCH5"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:28.176
+#Msg# The file /swagger-ui-standalone-preset.js was not modified
+#Pro# {"EventId":{"Id":6,"Name":"FileNotModified"},"SourceContext":"Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware","RequestId":"0HMIV6581SCH6:00000002","RequestPath":"/swagger/swagger-ui-standalone-preset.js","ConnectionId":"0HMIV6581SCH6"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:28.177
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - - - 304 - application/javascript 197.6976ms
+#Pro# {"ElapsedMilliseconds":197.6976,"StatusCode":304,"ContentType":"application/javascript","ContentLength":null,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/swagger-ui-standalone-preset.js","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCH6:00000002","RequestPath":"/swagger/swagger-ui-standalone-preset.js","ConnectionId":"0HMIV6581SCH6"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:30.859
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js.map - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/swagger-ui-bundle.js.map","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCH7:00000002","RequestPath":"/swagger/swagger-ui-bundle.js.map","ConnectionId":"0HMIV6581SCH7"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:33.744
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js.map - - - 404 0 - 2885.0486ms
+#Pro# {"ElapsedMilliseconds":2885.0486,"StatusCode":404,"ContentType":null,"ContentLength":0,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/swagger-ui-bundle.js.map","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCH7:00000002","RequestPath":"/swagger/swagger-ui-bundle.js.map","ConnectionId":"0HMIV6581SCH7"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:33.889
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js.map - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/swagger-ui-standalone-preset.js.map","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCH8:00000002","RequestPath":"/swagger/swagger-ui-standalone-preset.js.map","ConnectionId":"0HMIV6581SCH8"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:33.894
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js.map - - - 404 0 - 4.5061ms
+#Pro# {"ElapsedMilliseconds":4.5061,"StatusCode":404,"ContentType":null,"ContentLength":0,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/swagger-ui-standalone-preset.js.map","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCH8:00000002","RequestPath":"/swagger/swagger-ui-standalone-preset.js.map","ConnectionId":"0HMIV6581SCH8"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:34.336
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/v1/swagger.json","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCH6:00000003","RequestPath":"/swagger/v1/swagger.json","ConnectionId":"0HMIV6581SCH6"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:34.874
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/favicon-32x32.png","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCH5:00000004","RequestPath":"/swagger/favicon-32x32.png","ConnectionId":"0HMIV6581SCH5"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:35.062
+#Msg# The file /favicon-32x32.png was not modified
+#Pro# {"EventId":{"Id":6,"Name":"FileNotModified"},"SourceContext":"Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware","RequestId":"0HMIV6581SCH5:00000004","RequestPath":"/swagger/favicon-32x32.png","ConnectionId":"0HMIV6581SCH5"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:35.068
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - - - 304 - image/png 193.9262ms
+#Pro# {"ElapsedMilliseconds":193.9262,"StatusCode":304,"ContentType":"image/png","ContentLength":null,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/favicon-32x32.png","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCH5:00000004","RequestPath":"/swagger/favicon-32x32.png","ConnectionId":"0HMIV6581SCH5"}
+#Exc# 
+
+
+【INF】2022-07-06 17:24:35.589
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 1252.9158ms
+#Pro# {"ElapsedMilliseconds":1252.9158,"StatusCode":200,"ContentType":"application/json;charset=utf-8","ContentLength":null,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/v1/swagger.json","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCH6:00000003","RequestPath":"/swagger/v1/swagger.json","ConnectionId":"0HMIV6581SCH6"}
+#Exc# 
+
+
+【INF】2022-07-06 17:25:00.222
+#Msg# Request starting HTTP/1.1 POST http://localhost:5000/api/Account/Login application/json 73
+#Pro# {"Protocol":"HTTP/1.1","Method":"POST","ContentType":"application/json","ContentLength":73,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Account/Login","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCH6:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCH6"}
+#Exc# 
+
+
+【INF】2022-07-06 17:25:00.276
+#Msg# Executing endpoint 'Goods.Controllers.AccountController.Login (Goods)'
+#Pro# {"EventId":{"Name":"ExecutingEndpoint"},"SourceContext":"Microsoft.AspNetCore.Routing.EndpointMiddleware","RequestId":"0HMIV6581SCH6:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCH6"}
+#Exc# 
+
+
+【INF】2022-07-06 17:25:01.026
+#Msg# Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(Goods.Entity.ViewModels.LoginViweModel) on controller Goods.Controllers.AccountController (Goods).
+#Pro# {"EventId":{"Id":3,"Name":"ControllerActionExecuting"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6581SCH6:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCH6"}
+#Exc# 
+
+
+【INF】2022-07-06 17:25:03.863
+#Msg# Entity Framework Core 5.0.15 initialized 'AuthorityDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+#Pro# {"EventId":{"Id":10403,"Name":"Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized"},"SourceContext":"Microsoft.EntityFrameworkCore.Infrastructure","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6581SCH6:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCH6"}
+#Exc# 
+
+
+【INF】2022-07-06 17:25:07.219
+#Msg# Executed DbCommand (490ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+#Pro# {"EventId":{"Id":20101,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6581SCH6:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCH6"}
+#Exc# 
+
+
+【INF】2022-07-06 17:25:07.972
+#Msg# Executed DbCommand (339ms) [Parameters=[@__userId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+#Pro# {"EventId":{"Id":20101,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6581SCH6:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCH6"}
+#Exc# 
+
+
+【INF】2022-07-06 17:25:08.373
+#Msg# Entity Framework Core 5.0.15 initialized 'LogDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+#Pro# {"EventId":{"Id":10403,"Name":"Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized"},"SourceContext":"Microsoft.EntityFrameworkCore.Infrastructure","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6581SCH6:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCH6"}
+#Exc# 
+
+
+【INF】2022-07-06 17:25:09.321
+#Msg# Executed DbCommand (779ms) [Parameters=[@p0='?' (Size = 30) (DbType = AnsiString), @p1='?' (DbType = Int32), @p2='?' (DbType = DateTime2), @p3='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [LoginLog] ([IP], [LoginState], [LoginTime], [UserName])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [Id]
+FROM [LoginLog]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+#Pro# {"EventId":{"Id":20101,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6581SCH6:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCH6"}
+#Exc# 
+
+
+【INF】2022-07-06 17:25:09.427
+#Msg# Executing OkObjectResult, writing value of type 'Goods.Tools.ApiResult'.
+#Pro# {"EventId":{"Id":1,"Name":"ObjectResultExecuting"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6581SCH6:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCH6"}
+#Exc# 
+
+
+【INF】2022-07-06 17:25:09.462
+#Msg# Executed action Goods.Controllers.AccountController.Login (Goods) in 8422.7131ms
+#Pro# {"EventId":{"Id":2,"Name":"ActionExecuted"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","RequestId":"0HMIV6581SCH6:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCH6"}
+#Exc# 
+
+
+【INF】2022-07-06 17:25:09.467
+#Msg# Executed endpoint 'Goods.Controllers.AccountController.Login (Goods)'
+#Pro# {"EventId":{"Id":1,"Name":"ExecutedEndpoint"},"SourceContext":"Microsoft.AspNetCore.Routing.EndpointMiddleware","RequestId":"0HMIV6581SCH6:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCH6"}
+#Exc# 
+
+
+【INF】2022-07-06 17:25:09.475
+#Msg# Request finished HTTP/1.1 POST http://localhost:5000/api/Account/Login application/json 73 - 200 - application/json;+charset=utf-8 9252.9160ms
+#Pro# {"ElapsedMilliseconds":9252.916,"StatusCode":200,"ContentType":"application/json; charset=utf-8","ContentLength":null,"Protocol":"HTTP/1.1","Method":"POST","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Account/Login","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCH6:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCH6"}
+#Exc# 
+
+
+【INF】2022-07-06 17:25:35.396
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/api/Goods/GetGoodsList - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Goods/GetGoodsList","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCH9:00000002","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV6581SCH9"}
+#Exc# 
+
+
+【INF】2022-07-06 17:25:35.624
+#Msg# Successfully validated the token.
+#Pro# {"EventId":{"Id":2,"Name":"TokenValidationSucceeded"},"SourceContext":"Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler","RequestId":"0HMIV6581SCH9:00000002","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV6581SCH9"}
+#Exc# 
+
+
+【INF】2022-07-06 17:25:35.639
+#Msg# Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (admin|business|user)
+#Pro# {"EventId":{"Id":2,"Name":"UserAuthorizationFailed"},"SourceContext":"Microsoft.AspNetCore.Authorization.DefaultAuthorizationService","RequestId":"0HMIV6581SCH9:00000002","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV6581SCH9"}
+#Exc# 
+
+
+【INF】2022-07-06 17:25:35.645
+#Msg# AuthenticationScheme: Bearer was forbidden.
+#Pro# {"EventId":{"Id":13,"Name":"AuthenticationSchemeForbidden"},"SourceContext":"Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler","RequestId":"0HMIV6581SCH9:00000002","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV6581SCH9"}
+#Exc# 
+
+
+【INF】2022-07-06 17:25:35.647
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/api/Goods/GetGoodsList - - - 403 0 - 250.1393ms
+#Pro# {"ElapsedMilliseconds":250.1393,"StatusCode":403,"ContentType":null,"ContentLength":0,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Goods/GetGoodsList","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCH9:00000002","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV6581SCH9"}
+#Exc# 
+
+
+【INF】2022-07-06 17:26:04.676
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/api/User/GetUserRoles?userid=2 - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/User/GetUserRoles","QueryString":"?userid=2","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCHA:00000002","RequestPath":"/api/User/GetUserRoles","ConnectionId":"0HMIV6581SCHA"}
+#Exc# 
+
+
+【INF】2022-07-06 17:26:04.684
+#Msg# Successfully validated the token.
+#Pro# {"EventId":{"Id":2,"Name":"TokenValidationSucceeded"},"SourceContext":"Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler","RequestId":"0HMIV6581SCHA:00000002","RequestPath":"/api/User/GetUserRoles","ConnectionId":"0HMIV6581SCHA"}
+#Exc# 
+
+
+【INF】2022-07-06 17:26:04.689
+#Msg# Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (admin)
+#Pro# {"EventId":{"Id":2,"Name":"UserAuthorizationFailed"},"SourceContext":"Microsoft.AspNetCore.Authorization.DefaultAuthorizationService","RequestId":"0HMIV6581SCHA:00000002","RequestPath":"/api/User/GetUserRoles","ConnectionId":"0HMIV6581SCHA"}
+#Exc# 
+
+
+【INF】2022-07-06 17:26:04.692
+#Msg# AuthenticationScheme: Bearer was forbidden.
+#Pro# {"EventId":{"Id":13,"Name":"AuthenticationSchemeForbidden"},"SourceContext":"Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler","RequestId":"0HMIV6581SCHA:00000002","RequestPath":"/api/User/GetUserRoles","ConnectionId":"0HMIV6581SCHA"}
+#Exc# 
+
+
+【INF】2022-07-06 17:26:04.696
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/api/User/GetUserRoles?userid=2 - - - 403 0 - 20.1302ms
+#Pro# {"ElapsedMilliseconds":20.1302,"StatusCode":403,"ContentType":null,"ContentLength":0,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/User/GetUserRoles","QueryString":"?userid=2","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCHA:00000002","RequestPath":"/api/User/GetUserRoles","ConnectionId":"0HMIV6581SCHA"}
+#Exc# 
+
+
+【INF】2022-07-06 17:26:37.262
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/api/Goods/GetGoodsList - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Goods/GetGoodsList","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCHB:00000002","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV6581SCHB"}
+#Exc# 
+
+
+【INF】2022-07-06 17:26:37.299
+#Msg# Successfully validated the token.
+#Pro# {"EventId":{"Id":2,"Name":"TokenValidationSucceeded"},"SourceContext":"Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler","RequestId":"0HMIV6581SCHB:00000002","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV6581SCHB"}
+#Exc# 
+
+
+【INF】2022-07-06 17:26:37.308
+#Msg# Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (admin|business|user)
+#Pro# {"EventId":{"Id":2,"Name":"UserAuthorizationFailed"},"SourceContext":"Microsoft.AspNetCore.Authorization.DefaultAuthorizationService","RequestId":"0HMIV6581SCHB:00000002","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV6581SCHB"}
+#Exc# 
+
+
+【INF】2022-07-06 17:26:37.328
+#Msg# AuthenticationScheme: Bearer was forbidden.
+#Pro# {"EventId":{"Id":13,"Name":"AuthenticationSchemeForbidden"},"SourceContext":"Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler","RequestId":"0HMIV6581SCHB:00000002","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV6581SCHB"}
+#Exc# 
+
+
+【INF】2022-07-06 17:26:37.333
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/api/Goods/GetGoodsList - - - 403 0 - 70.4587ms
+#Pro# {"ElapsedMilliseconds":70.4587,"StatusCode":403,"ContentType":null,"ContentLength":0,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Goods/GetGoodsList","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCHB:00000002","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV6581SCHB"}
+#Exc# 
+
+
+【INF】2022-07-06 17:27:13.284
+#Msg# Request starting HTTP/1.1 POST http://localhost:5000/api/Account/Login application/json 75
+#Pro# {"Protocol":"HTTP/1.1","Method":"POST","ContentType":"application/json","ContentLength":75,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Account/Login","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCHC:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHC"}
+#Exc# 
+
+
+【INF】2022-07-06 17:27:13.286
+#Msg# Successfully validated the token.
+#Pro# {"EventId":{"Id":2,"Name":"TokenValidationSucceeded"},"SourceContext":"Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler","RequestId":"0HMIV6581SCHC:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHC"}
+#Exc# 
+
+
+【INF】2022-07-06 17:27:13.287
+#Msg# Executing endpoint 'Goods.Controllers.AccountController.Login (Goods)'
+#Pro# {"EventId":{"Name":"ExecutingEndpoint"},"SourceContext":"Microsoft.AspNetCore.Routing.EndpointMiddleware","RequestId":"0HMIV6581SCHC:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHC"}
+#Exc# 
+
+
+【INF】2022-07-06 17:27:13.291
+#Msg# Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(Goods.Entity.ViewModels.LoginViweModel) on controller Goods.Controllers.AccountController (Goods).
+#Pro# {"EventId":{"Id":3,"Name":"ControllerActionExecuting"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6581SCHC:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHC"}
+#Exc# 
+
+
+【INF】2022-07-06 17:27:13.311
+#Msg# Entity Framework Core 5.0.15 initialized 'AuthorityDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+#Pro# {"EventId":{"Id":10403,"Name":"Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized"},"SourceContext":"Microsoft.EntityFrameworkCore.Infrastructure","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6581SCHC:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHC"}
+#Exc# 
+
+
+【INF】2022-07-06 17:27:13.353
+#Msg# Executed DbCommand (33ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+#Pro# {"EventId":{"Id":20101,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6581SCHC:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHC"}
+#Exc# 
+
+
+【INF】2022-07-06 17:27:13.367
+#Msg# Executed DbCommand (4ms) [Parameters=[@__userId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+#Pro# {"EventId":{"Id":20101,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6581SCHC:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHC"}
+#Exc# 
+
+
+【INF】2022-07-06 17:27:13.376
+#Msg# Entity Framework Core 5.0.15 initialized 'LogDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+#Pro# {"EventId":{"Id":10403,"Name":"Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized"},"SourceContext":"Microsoft.EntityFrameworkCore.Infrastructure","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6581SCHC:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHC"}
+#Exc# 
+
+
+【ERR】2022-07-06 17:27:13.905
+#Msg# Failed executing DbCommand (435ms) [Parameters=[@p0='?' (Size = 30) (DbType = AnsiString), @p1='?' (DbType = Int32), @p2='?' (DbType = DateTime2), @p3='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [LoginLog] ([IP], [LoginState], [LoginTime], [UserName])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [Id]
+FROM [LoginLog]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+#Pro# {"EventId":{"Id":20102,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandError"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6581SCHC:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHC"}
+#Exc# 
+
+
+【ERR】2022-07-06 17:27:14.514
+#Msg# An exception occurred in the database while saving changes for context type 'Goods.EF.LogDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): 字串或二進位資料會被截斷。
+陳述式已經結束。
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__169_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__277_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:01a9a1ed-1e07-428e-bd46-2a5e596af340
+Error Number:8152,State:13,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+#Pro# {"EventId":{"Id":10000,"Name":"Microsoft.EntityFrameworkCore.Update.SaveChangesFailed"},"SourceContext":"Microsoft.EntityFrameworkCore.Update","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6581SCHC:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHC"}
+#Exc# Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): 字串或二進位資料會被截斷。
+陳述式已經結束。
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__169_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__277_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:01a9a1ed-1e07-428e-bd46-2a5e596af340
+Error Number:8152,State:13,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+
+
+
+【INF】2022-07-06 17:27:15.444
+#Msg# Executed action Goods.Controllers.AccountController.Login (Goods) in 2145.8286ms
+#Pro# {"EventId":{"Id":2,"Name":"ActionExecuted"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","RequestId":"0HMIV6581SCHC:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHC"}
+#Exc# 
+
+
+【INF】2022-07-06 17:27:15.556
+#Msg# Executed endpoint 'Goods.Controllers.AccountController.Login (Goods)'
+#Pro# {"EventId":{"Id":1,"Name":"ExecutedEndpoint"},"SourceContext":"Microsoft.AspNetCore.Routing.EndpointMiddleware","RequestId":"0HMIV6581SCHC:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHC"}
+#Exc# 
+
+
+【ERR】2022-07-06 17:27:15.980
+#Msg# An unhandled exception has occurred while executing the request.
+#Pro# {"EventId":{"Id":1,"Name":"UnhandledException"},"SourceContext":"Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware","RequestId":"0HMIV6581SCHC:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHC"}
+#Exc# Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): 字串或二進位資料會被截斷。
+陳述式已經結束。
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__169_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__277_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:01a9a1ed-1e07-428e-bd46-2a5e596af340
+Error Number:8152,State:13,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Goods.Tools.Filter.ActionFilter.OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next) in E:\demo\身份认证_日志_操作记录\Goods\Goods.Tools\Filter\ActionFilter.cs:line 100
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+
+
+【INF】2022-07-06 17:27:16.069
+#Msg# Request finished HTTP/1.1 POST http://localhost:5000/api/Account/Login application/json 75 - 500 - text/plain 2785.1940ms
+#Pro# {"ElapsedMilliseconds":2785.194,"StatusCode":500,"ContentType":"text/plain","ContentLength":null,"Protocol":"HTTP/1.1","Method":"POST","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Account/Login","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCHC:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHC"}
+#Exc# 
+
+
+【INF】2022-07-06 17:27:31.670
+#Msg# Request starting HTTP/1.1 POST http://localhost:5000/api/Account/Login application/json 75
+#Pro# {"Protocol":"HTTP/1.1","Method":"POST","ContentType":"application/json","ContentLength":75,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Account/Login","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCHD:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHD"}
+#Exc# 
+
+
+【INF】2022-07-06 17:27:31.675
+#Msg# Successfully validated the token.
+#Pro# {"EventId":{"Id":2,"Name":"TokenValidationSucceeded"},"SourceContext":"Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler","RequestId":"0HMIV6581SCHD:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHD"}
+#Exc# 
+
+
+【INF】2022-07-06 17:27:31.679
+#Msg# Executing endpoint 'Goods.Controllers.AccountController.Login (Goods)'
+#Pro# {"EventId":{"Name":"ExecutingEndpoint"},"SourceContext":"Microsoft.AspNetCore.Routing.EndpointMiddleware","RequestId":"0HMIV6581SCHD:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHD"}
+#Exc# 
+
+
+【INF】2022-07-06 17:27:31.686
+#Msg# Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(Goods.Entity.ViewModels.LoginViweModel) on controller Goods.Controllers.AccountController (Goods).
+#Pro# {"EventId":{"Id":3,"Name":"ControllerActionExecuting"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6581SCHD:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHD"}
+#Exc# 
+
+
+【INF】2022-07-06 17:27:31.757
+#Msg# Entity Framework Core 5.0.15 initialized 'AuthorityDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+#Pro# {"EventId":{"Id":10403,"Name":"Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized"},"SourceContext":"Microsoft.EntityFrameworkCore.Infrastructure","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6581SCHD:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHD"}
+#Exc# 
+
+
+【INF】2022-07-06 17:27:31.765
+#Msg# Executed DbCommand (3ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+#Pro# {"EventId":{"Id":20101,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6581SCHD:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHD"}
+#Exc# 
+
+
+【INF】2022-07-06 17:27:31.777
+#Msg# Executed DbCommand (3ms) [Parameters=[@__userId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+#Pro# {"EventId":{"Id":20101,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6581SCHD:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHD"}
+#Exc# 
+
+
+【INF】2022-07-06 17:27:31.786
+#Msg# Entity Framework Core 5.0.15 initialized 'LogDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+#Pro# {"EventId":{"Id":10403,"Name":"Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized"},"SourceContext":"Microsoft.EntityFrameworkCore.Infrastructure","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6581SCHD:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHD"}
+#Exc# 
+
+
+【ERR】2022-07-06 17:27:31.814
+#Msg# Failed executing DbCommand (18ms) [Parameters=[@p0='?' (Size = 30) (DbType = AnsiString), @p1='?' (DbType = Int32), @p2='?' (DbType = DateTime2), @p3='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [LoginLog] ([IP], [LoginState], [LoginTime], [UserName])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [Id]
+FROM [LoginLog]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+#Pro# {"EventId":{"Id":20102,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandError"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6581SCHD:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHD"}
+#Exc# 
+
+
+【ERR】2022-07-06 17:27:31.841
+#Msg# An exception occurred in the database while saving changes for context type 'Goods.EF.LogDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): 字串或二進位資料會被截斷。
+陳述式已經結束。
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__169_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:01a9a1ed-1e07-428e-bd46-2a5e596af340
+Error Number:8152,State:13,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+#Pro# {"EventId":{"Id":10000,"Name":"Microsoft.EntityFrameworkCore.Update.SaveChangesFailed"},"SourceContext":"Microsoft.EntityFrameworkCore.Update","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6581SCHD:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHD"}
+#Exc# Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): 字串或二進位資料會被截斷。
+陳述式已經結束。
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__169_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:01a9a1ed-1e07-428e-bd46-2a5e596af340
+Error Number:8152,State:13,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+
+
+
+【INF】2022-07-06 17:27:32.034
+#Msg# Executed action Goods.Controllers.AccountController.Login (Goods) in 339.5292ms
+#Pro# {"EventId":{"Id":2,"Name":"ActionExecuted"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker","ActionId":"8e632c80-8f9a-4fc7-a6c9-5bd20fc7b765","RequestId":"0HMIV6581SCHD:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHD"}
+#Exc# 
+
+
+【INF】2022-07-06 17:27:32.038
+#Msg# Executed endpoint 'Goods.Controllers.AccountController.Login (Goods)'
+#Pro# {"EventId":{"Id":1,"Name":"ExecutedEndpoint"},"SourceContext":"Microsoft.AspNetCore.Routing.EndpointMiddleware","RequestId":"0HMIV6581SCHD:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHD"}
+#Exc# 
+
+
+【ERR】2022-07-06 17:27:32.067
+#Msg# An unhandled exception has occurred while executing the request.
+#Pro# {"EventId":{"Id":1,"Name":"UnhandledException"},"SourceContext":"Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware","RequestId":"0HMIV6581SCHD:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHD"}
+#Exc# Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): 字串或二進位資料會被截斷。
+陳述式已經結束。
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__169_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:01a9a1ed-1e07-428e-bd46-2a5e596af340
+Error Number:8152,State:13,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Goods.Tools.Filter.ActionFilter.OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next) in E:\demo\身份认证_日志_操作记录\Goods\Goods.Tools\Filter\ActionFilter.cs:line 100
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+
+
+【INF】2022-07-06 17:27:32.192
+#Msg# Request finished HTTP/1.1 POST http://localhost:5000/api/Account/Login application/json 75 - 500 - text/plain 521.6282ms
+#Pro# {"ElapsedMilliseconds":521.6282,"StatusCode":500,"ContentType":"text/plain","ContentLength":null,"Protocol":"HTTP/1.1","Method":"POST","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Account/Login","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6581SCHD:00000002","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6581SCHD"}
+#Exc# 
+
+
+【INF】2022-07-06 17:29:14.026
+#Msg# User profile is available. Using 'C:\Users\1011751\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+#Pro# {"EventId":{"Id":63,"Name":"UsingProfileAsKeyRepositoryWithDPAPI"},"SourceContext":"Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager"}
+#Exc# 
+
+
+【INF】2022-07-06 17:29:14.416
+#Msg# Now listening on: http://localhost:5000
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-07-06 17:29:14.420
+#Msg# Application started. Press Ctrl+C to shut down.
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-07-06 17:29:14.424
+#Msg# Hosting environment: Development
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-07-06 17:29:14.428
+#Msg# Content root path: E:\demo\身份认证_日志_操作记录\Goods\Goods
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-07-06 17:29:17.244
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/index.html","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV67V16M1G:00000002","RequestPath":"/swagger/index.html","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:29:17.436
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 195.3082ms
+#Pro# {"ElapsedMilliseconds":195.3082,"StatusCode":200,"ContentType":"text/html;charset=utf-8","ContentLength":null,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/index.html","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV67V16M1G:00000002","RequestPath":"/swagger/index.html","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:29:17.809
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js.map - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/swagger-ui-bundle.js.map","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV67V16M1H:00000002","RequestPath":"/swagger/swagger-ui-bundle.js.map","ConnectionId":"0HMIV67V16M1H"}
+#Exc# 
+
+
+【INF】2022-07-06 17:29:18.044
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js.map - - - 404 0 - 235.3301ms
+#Pro# {"ElapsedMilliseconds":235.3301,"StatusCode":404,"ContentType":null,"ContentLength":0,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/swagger-ui-bundle.js.map","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV67V16M1H:00000002","RequestPath":"/swagger/swagger-ui-bundle.js.map","ConnectionId":"0HMIV67V16M1H"}
+#Exc# 
+
+
+【INF】2022-07-06 17:29:18.182
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js.map - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/swagger-ui-standalone-preset.js.map","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV67V16M1I:00000002","RequestPath":"/swagger/swagger-ui-standalone-preset.js.map","ConnectionId":"0HMIV67V16M1I"}
+#Exc# 
+
+
+【INF】2022-07-06 17:29:18.186
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js.map - - - 404 0 - 3.6190ms
+#Pro# {"ElapsedMilliseconds":3.619,"StatusCode":404,"ContentType":null,"ContentLength":0,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/swagger-ui-standalone-preset.js.map","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV67V16M1I:00000002","RequestPath":"/swagger/swagger-ui-standalone-preset.js.map","ConnectionId":"0HMIV67V16M1I"}
+#Exc# 
+
+
+【INF】2022-07-06 17:29:18.273
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/v1/swagger.json","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV67V16M1G:00000003","RequestPath":"/swagger/v1/swagger.json","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:29:18.382
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 109.3669ms
+#Pro# {"ElapsedMilliseconds":109.3669,"StatusCode":200,"ContentType":"application/json;charset=utf-8","ContentLength":null,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/v1/swagger.json","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV67V16M1G:00000003","RequestPath":"/swagger/v1/swagger.json","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:29:30.676
+#Msg# Request starting HTTP/1.1 POST http://localhost:5000/api/Account/Login application/json 75
+#Pro# {"Protocol":"HTTP/1.1","Method":"POST","ContentType":"application/json","ContentLength":75,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Account/Login","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV67V16M1G:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:29:30.685
+#Msg# Executing endpoint 'Goods.Controllers.AccountController.Login (Goods)'
+#Pro# {"EventId":{"Name":"ExecutingEndpoint"},"SourceContext":"Microsoft.AspNetCore.Routing.EndpointMiddleware","RequestId":"0HMIV67V16M1G:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:29:30.896
+#Msg# Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(Goods.Entity.ViewModels.LoginViweModel) on controller Goods.Controllers.AccountController (Goods).
+#Pro# {"EventId":{"Id":3,"Name":"ControllerActionExecuting"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker","ActionId":"ac6a61c2-cdbb-4da0-91b5-5e4283d2f9e1","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV67V16M1G:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:29:46.539
+#Msg# Entity Framework Core 5.0.15 initialized 'AuthorityDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+#Pro# {"EventId":{"Id":10403,"Name":"Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized"},"SourceContext":"Microsoft.EntityFrameworkCore.Infrastructure","ActionId":"ac6a61c2-cdbb-4da0-91b5-5e4283d2f9e1","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV67V16M1G:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:29:47.745
+#Msg# Executed DbCommand (75ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+#Pro# {"EventId":{"Id":20101,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"ac6a61c2-cdbb-4da0-91b5-5e4283d2f9e1","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV67V16M1G:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:30:07.055
+#Msg# Executed DbCommand (6ms) [Parameters=[@__userId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+#Pro# {"EventId":{"Id":20101,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"ac6a61c2-cdbb-4da0-91b5-5e4283d2f9e1","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV67V16M1G:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:31:20.885
+#Msg# Entity Framework Core 5.0.15 initialized 'LogDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+#Pro# {"EventId":{"Id":10403,"Name":"Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized"},"SourceContext":"Microsoft.EntityFrameworkCore.Infrastructure","ActionId":"ac6a61c2-cdbb-4da0-91b5-5e4283d2f9e1","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV67V16M1G:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:31:23.964
+#Msg# Executed DbCommand (53ms) [Parameters=[@p0='?' (Size = 30) (DbType = AnsiString), @p1='?' (DbType = Int32), @p2='?' (DbType = DateTime2), @p3='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [LoginLog] ([IP], [LoginState], [LoginTime], [UserName])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [Id]
+FROM [LoginLog]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+#Pro# {"EventId":{"Id":20101,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"ac6a61c2-cdbb-4da0-91b5-5e4283d2f9e1","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV67V16M1G:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:31:36.508
+#Msg# Executing OkObjectResult, writing value of type 'Goods.Tools.ApiResult'.
+#Pro# {"EventId":{"Id":1,"Name":"ObjectResultExecuting"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor","ActionId":"ac6a61c2-cdbb-4da0-91b5-5e4283d2f9e1","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV67V16M1G:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:31:36.649
+#Msg# Executed action Goods.Controllers.AccountController.Login (Goods) in 125742.6063ms
+#Pro# {"EventId":{"Id":2,"Name":"ActionExecuted"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker","ActionId":"ac6a61c2-cdbb-4da0-91b5-5e4283d2f9e1","RequestId":"0HMIV67V16M1G:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:31:36.652
+#Msg# Executed endpoint 'Goods.Controllers.AccountController.Login (Goods)'
+#Pro# {"EventId":{"Id":1,"Name":"ExecutedEndpoint"},"SourceContext":"Microsoft.AspNetCore.Routing.EndpointMiddleware","RequestId":"0HMIV67V16M1G:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:31:36.661
+#Msg# Request finished HTTP/1.1 POST http://localhost:5000/api/Account/Login application/json 75 - 200 - application/json;+charset=utf-8 125984.3695ms
+#Pro# {"ElapsedMilliseconds":125984.3695,"StatusCode":200,"ContentType":"application/json; charset=utf-8","ContentLength":null,"Protocol":"HTTP/1.1","Method":"POST","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Account/Login","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV67V16M1G:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:32:06.033
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/api/Goods/GetGoodsList - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Goods/GetGoodsList","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV67V16M1G:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:32:06.114
+#Msg# Successfully validated the token.
+#Pro# {"EventId":{"Id":2,"Name":"TokenValidationSucceeded"},"SourceContext":"Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler","RequestId":"0HMIV67V16M1G:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:32:06.121
+#Msg# Authorization was successful.
+#Pro# {"EventId":{"Id":1,"Name":"UserAuthorizationSucceeded"},"SourceContext":"Microsoft.AspNetCore.Authorization.DefaultAuthorizationService","RequestId":"0HMIV67V16M1G:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:32:06.125
+#Msg# Executing endpoint 'Goods.Controllers.GoodsController.GetGoodsList (Goods)'
+#Pro# {"EventId":{"Name":"ExecutingEndpoint"},"SourceContext":"Microsoft.AspNetCore.Routing.EndpointMiddleware","RequestId":"0HMIV67V16M1G:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:32:06.129
+#Msg# Route matched with {action = "GetGoodsList", controller = "Goods"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetGoodsList() on controller Goods.Controllers.GoodsController (Goods).
+#Pro# {"EventId":{"Id":3,"Name":"ControllerActionExecuting"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker","ActionId":"fbd1d195-0aeb-47f1-ad79-f8d731795d70","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV67V16M1G:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:34:00.737
+#Msg# Entity Framework Core 5.0.15 initialized 'GoodsDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+#Pro# {"EventId":{"Id":10403,"Name":"Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized"},"SourceContext":"Microsoft.EntityFrameworkCore.Infrastructure","ActionId":"fbd1d195-0aeb-47f1-ad79-f8d731795d70","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV67V16M1G:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:34:01.014
+#Msg# Executed DbCommand (261ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[GoodsDesc], [g].[GoodsName], [g].[GoodsPrice]
+FROM [Goods] AS [g]
+#Pro# {"EventId":{"Id":20101,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"fbd1d195-0aeb-47f1-ad79-f8d731795d70","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV67V16M1G:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:34:01.075
+#Msg# Entity Framework Core 5.0.15 initialized 'LogDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+#Pro# {"EventId":{"Id":10403,"Name":"Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized"},"SourceContext":"Microsoft.EntityFrameworkCore.Infrastructure","ActionId":"fbd1d195-0aeb-47f1-ad79-f8d731795d70","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV67V16M1G:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:34:01.256
+#Msg# Executed DbCommand (98ms) [Parameters=[@p0='?' (Size = 40) (DbType = AnsiString), @p1='?' (Size = 40) (DbType = AnsiString), @p2='?' (DbType = DateTime2), @p3='?' (Size = 30) (DbType = AnsiString), @p4='?' (Size = 5) (DbType = AnsiString), @p5='?' (Size = 200), @p6='?' (Size = 20) (DbType = AnsiString), @p7='?' (DbType = Int32), @p8='?' (Size = 100), @p9='?' (Size = 10)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [RequestLog] ([ActionName], [ControllerName], [DateTime], [IP], [Method], [Parameter], [RequestTime], [StateCode], [Url], [UserName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9);
+SELECT [Id]
+FROM [RequestLog]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+#Pro# {"EventId":{"Id":20101,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"fbd1d195-0aeb-47f1-ad79-f8d731795d70","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV67V16M1G:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:34:01.274
+#Msg# Executing OkObjectResult, writing value of type 'Goods.Tools.ApiResult'.
+#Pro# {"EventId":{"Id":1,"Name":"ObjectResultExecuting"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor","ActionId":"fbd1d195-0aeb-47f1-ad79-f8d731795d70","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV67V16M1G:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:34:01.306
+#Msg# Executed action Goods.Controllers.GoodsController.GetGoodsList (Goods) in 115170.6186ms
+#Pro# {"EventId":{"Id":2,"Name":"ActionExecuted"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker","ActionId":"fbd1d195-0aeb-47f1-ad79-f8d731795d70","RequestId":"0HMIV67V16M1G:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:34:01.308
+#Msg# Executed endpoint 'Goods.Controllers.GoodsController.GetGoodsList (Goods)'
+#Pro# {"EventId":{"Id":1,"Name":"ExecutedEndpoint"},"SourceContext":"Microsoft.AspNetCore.Routing.EndpointMiddleware","RequestId":"0HMIV67V16M1G:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:34:01.313
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/api/Goods/GetGoodsList - - - 200 - application/json;+charset=utf-8 115280.4271ms
+#Pro# {"ElapsedMilliseconds":115280.4271,"StatusCode":200,"ContentType":"application/json; charset=utf-8","ContentLength":null,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Goods/GetGoodsList","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV67V16M1G:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:34:25.472
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/api/Goods/GetGoodsList - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Goods/GetGoodsList","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV67V16M1G:00000006","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:34:25.480
+#Msg# Successfully validated the token.
+#Pro# {"EventId":{"Id":2,"Name":"TokenValidationSucceeded"},"SourceContext":"Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler","RequestId":"0HMIV67V16M1G:00000006","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:34:25.482
+#Msg# Authorization was successful.
+#Pro# {"EventId":{"Id":1,"Name":"UserAuthorizationSucceeded"},"SourceContext":"Microsoft.AspNetCore.Authorization.DefaultAuthorizationService","RequestId":"0HMIV67V16M1G:00000006","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:34:25.486
+#Msg# Executing endpoint 'Goods.Controllers.GoodsController.GetGoodsList (Goods)'
+#Pro# {"EventId":{"Name":"ExecutingEndpoint"},"SourceContext":"Microsoft.AspNetCore.Routing.EndpointMiddleware","RequestId":"0HMIV67V16M1G:00000006","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:34:25.491
+#Msg# Route matched with {action = "GetGoodsList", controller = "Goods"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetGoodsList() on controller Goods.Controllers.GoodsController (Goods).
+#Pro# {"EventId":{"Id":3,"Name":"ControllerActionExecuting"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker","ActionId":"fbd1d195-0aeb-47f1-ad79-f8d731795d70","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV67V16M1G:00000006","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:34:44.104
+#Msg# Entity Framework Core 5.0.15 initialized 'GoodsDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+#Pro# {"EventId":{"Id":10403,"Name":"Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized"},"SourceContext":"Microsoft.EntityFrameworkCore.Infrastructure","ActionId":"fbd1d195-0aeb-47f1-ad79-f8d731795d70","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV67V16M1G:00000006","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:34:44.130
+#Msg# Executed DbCommand (20ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[GoodsDesc], [g].[GoodsName], [g].[GoodsPrice]
+FROM [Goods] AS [g]
+#Pro# {"EventId":{"Id":20101,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"fbd1d195-0aeb-47f1-ad79-f8d731795d70","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV67V16M1G:00000006","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:00.205
+#Msg# Entity Framework Core 5.0.15 initialized 'LogDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+#Pro# {"EventId":{"Id":10403,"Name":"Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized"},"SourceContext":"Microsoft.EntityFrameworkCore.Infrastructure","ActionId":"fbd1d195-0aeb-47f1-ad79-f8d731795d70","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV67V16M1G:00000006","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:00.879
+#Msg# Executed DbCommand (43ms) [Parameters=[@p0='?' (Size = 40) (DbType = AnsiString), @p1='?' (Size = 40) (DbType = AnsiString), @p2='?' (DbType = DateTime2), @p3='?' (Size = 30) (DbType = AnsiString), @p4='?' (Size = 5) (DbType = AnsiString), @p5='?' (Size = 200), @p6='?' (Size = 20) (DbType = AnsiString), @p7='?' (DbType = Int32), @p8='?' (Size = 100), @p9='?' (Size = 10)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [RequestLog] ([ActionName], [ControllerName], [DateTime], [IP], [Method], [Parameter], [RequestTime], [StateCode], [Url], [UserName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9);
+SELECT [Id]
+FROM [RequestLog]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+#Pro# {"EventId":{"Id":20101,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"fbd1d195-0aeb-47f1-ad79-f8d731795d70","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV67V16M1G:00000006","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:01.950
+#Msg# Executing OkObjectResult, writing value of type 'Goods.Tools.ApiResult'.
+#Pro# {"EventId":{"Id":1,"Name":"ObjectResultExecuting"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor","ActionId":"fbd1d195-0aeb-47f1-ad79-f8d731795d70","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV67V16M1G:00000006","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:01.952
+#Msg# Executed action Goods.Controllers.GoodsController.GetGoodsList (Goods) in 36455.2848ms
+#Pro# {"EventId":{"Id":2,"Name":"ActionExecuted"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker","ActionId":"fbd1d195-0aeb-47f1-ad79-f8d731795d70","RequestId":"0HMIV67V16M1G:00000006","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:01.955
+#Msg# Executed endpoint 'Goods.Controllers.GoodsController.GetGoodsList (Goods)'
+#Pro# {"EventId":{"Id":1,"Name":"ExecutedEndpoint"},"SourceContext":"Microsoft.AspNetCore.Routing.EndpointMiddleware","RequestId":"0HMIV67V16M1G:00000006","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:01.958
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/api/Goods/GetGoodsList - - - 200 - application/json;+charset=utf-8 36486.2375ms
+#Pro# {"ElapsedMilliseconds":36486.2375,"StatusCode":200,"ContentType":"application/json; charset=utf-8","ContentLength":null,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Goods/GetGoodsList","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV67V16M1G:00000006","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:20.679
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/api/Goods/GetGoodsList - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Goods/GetGoodsList","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV67V16M1G:00000007","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:20.683
+#Msg# Successfully validated the token.
+#Pro# {"EventId":{"Id":2,"Name":"TokenValidationSucceeded"},"SourceContext":"Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler","RequestId":"0HMIV67V16M1G:00000007","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:20.686
+#Msg# Authorization was successful.
+#Pro# {"EventId":{"Id":1,"Name":"UserAuthorizationSucceeded"},"SourceContext":"Microsoft.AspNetCore.Authorization.DefaultAuthorizationService","RequestId":"0HMIV67V16M1G:00000007","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:20.687
+#Msg# Executing endpoint 'Goods.Controllers.GoodsController.GetGoodsList (Goods)'
+#Pro# {"EventId":{"Name":"ExecutingEndpoint"},"SourceContext":"Microsoft.AspNetCore.Routing.EndpointMiddleware","RequestId":"0HMIV67V16M1G:00000007","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:20.694
+#Msg# Route matched with {action = "GetGoodsList", controller = "Goods"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetGoodsList() on controller Goods.Controllers.GoodsController (Goods).
+#Pro# {"EventId":{"Id":3,"Name":"ControllerActionExecuting"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker","ActionId":"fbd1d195-0aeb-47f1-ad79-f8d731795d70","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV67V16M1G:00000007","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:24.007
+#Msg# Entity Framework Core 5.0.15 initialized 'GoodsDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+#Pro# {"EventId":{"Id":10403,"Name":"Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized"},"SourceContext":"Microsoft.EntityFrameworkCore.Infrastructure","ActionId":"fbd1d195-0aeb-47f1-ad79-f8d731795d70","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV67V16M1G:00000007","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:24.013
+#Msg# Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[GoodsDesc], [g].[GoodsName], [g].[GoodsPrice]
+FROM [Goods] AS [g]
+#Pro# {"EventId":{"Id":20101,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"fbd1d195-0aeb-47f1-ad79-f8d731795d70","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV67V16M1G:00000007","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:24.019
+#Msg# Entity Framework Core 5.0.15 initialized 'LogDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+#Pro# {"EventId":{"Id":10403,"Name":"Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized"},"SourceContext":"Microsoft.EntityFrameworkCore.Infrastructure","ActionId":"fbd1d195-0aeb-47f1-ad79-f8d731795d70","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV67V16M1G:00000007","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:24.039
+#Msg# Executed DbCommand (13ms) [Parameters=[@p0='?' (Size = 40) (DbType = AnsiString), @p1='?' (Size = 40) (DbType = AnsiString), @p2='?' (DbType = DateTime2), @p3='?' (Size = 30) (DbType = AnsiString), @p4='?' (Size = 5) (DbType = AnsiString), @p5='?' (Size = 200), @p6='?' (Size = 20) (DbType = AnsiString), @p7='?' (DbType = Int32), @p8='?' (Size = 100), @p9='?' (Size = 10)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [RequestLog] ([ActionName], [ControllerName], [DateTime], [IP], [Method], [Parameter], [RequestTime], [StateCode], [Url], [UserName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9);
+SELECT [Id]
+FROM [RequestLog]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+#Pro# {"EventId":{"Id":20101,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"fbd1d195-0aeb-47f1-ad79-f8d731795d70","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV67V16M1G:00000007","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:24.048
+#Msg# Executing OkObjectResult, writing value of type 'Goods.Tools.ApiResult'.
+#Pro# {"EventId":{"Id":1,"Name":"ObjectResultExecuting"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor","ActionId":"fbd1d195-0aeb-47f1-ad79-f8d731795d70","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV67V16M1G:00000007","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:24.053
+#Msg# Executed action Goods.Controllers.GoodsController.GetGoodsList (Goods) in 3354.9542ms
+#Pro# {"EventId":{"Id":2,"Name":"ActionExecuted"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker","ActionId":"fbd1d195-0aeb-47f1-ad79-f8d731795d70","RequestId":"0HMIV67V16M1G:00000007","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:24.055
+#Msg# Executed endpoint 'Goods.Controllers.GoodsController.GetGoodsList (Goods)'
+#Pro# {"EventId":{"Id":1,"Name":"ExecutedEndpoint"},"SourceContext":"Microsoft.AspNetCore.Routing.EndpointMiddleware","RequestId":"0HMIV67V16M1G:00000007","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:24.059
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/api/Goods/GetGoodsList - - - 200 - application/json;+charset=utf-8 3379.4544ms
+#Pro# {"ElapsedMilliseconds":3379.4544,"StatusCode":200,"ContentType":"application/json; charset=utf-8","ContentLength":null,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Goods/GetGoodsList","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV67V16M1G:00000007","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV67V16M1G"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:57.704
+#Msg# User profile is available. Using 'C:\Users\1011751\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+#Pro# {"EventId":{"Id":63,"Name":"UsingProfileAsKeyRepositoryWithDPAPI"},"SourceContext":"Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:58.079
+#Msg# Now listening on: http://localhost:5000
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:58.082
+#Msg# Application started. Press Ctrl+C to shut down.
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:58.085
+#Msg# Hosting environment: Development
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-07-06 17:35:58.090
+#Msg# Content root path: E:\demo\身份认证_日志_操作记录\Goods\Goods
+#Pro# {"SourceContext":"Microsoft.Hosting.Lifetime"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:00.888
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/index.html","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6BNA8S2Q:00000002","RequestPath":"/swagger/index.html","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:01.019
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 134.8130ms
+#Pro# {"ElapsedMilliseconds":134.813,"StatusCode":200,"ContentType":"text/html;charset=utf-8","ContentLength":null,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/index.html","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6BNA8S2Q:00000002","RequestPath":"/swagger/index.html","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:01.255
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js.map - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/swagger-ui-bundle.js.map","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6BNA8S2R:00000002","RequestPath":"/swagger/swagger-ui-bundle.js.map","ConnectionId":"0HMIV6BNA8S2R"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:01.403
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js.map - - - 404 0 - 147.8431ms
+#Pro# {"ElapsedMilliseconds":147.8431,"StatusCode":404,"ContentType":null,"ContentLength":0,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/swagger-ui-bundle.js.map","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6BNA8S2R:00000002","RequestPath":"/swagger/swagger-ui-bundle.js.map","ConnectionId":"0HMIV6BNA8S2R"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:01.478
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js.map - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/swagger-ui-standalone-preset.js.map","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6BNA8S2S:00000002","RequestPath":"/swagger/swagger-ui-standalone-preset.js.map","ConnectionId":"0HMIV6BNA8S2S"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:01.483
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js.map - - - 404 0 - 4.9300ms
+#Pro# {"ElapsedMilliseconds":4.93,"StatusCode":404,"ContentType":null,"ContentLength":0,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/swagger-ui-standalone-preset.js.map","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6BNA8S2S:00000002","RequestPath":"/swagger/swagger-ui-standalone-preset.js.map","ConnectionId":"0HMIV6BNA8S2S"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:01.542
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/v1/swagger.json","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6BNA8S2Q:00000003","RequestPath":"/swagger/v1/swagger.json","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:01.664
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 121.3650ms
+#Pro# {"ElapsedMilliseconds":121.365,"StatusCode":200,"ContentType":"application/json;charset=utf-8","ContentLength":null,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/swagger/v1/swagger.json","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6BNA8S2Q:00000003","RequestPath":"/swagger/v1/swagger.json","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:13.598
+#Msg# Request starting HTTP/1.1 POST http://localhost:5000/api/Account/Login application/json 75
+#Pro# {"Protocol":"HTTP/1.1","Method":"POST","ContentType":"application/json","ContentLength":75,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Account/Login","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6BNA8S2Q:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:13.606
+#Msg# Executing endpoint 'Goods.Controllers.AccountController.Login (Goods)'
+#Pro# {"EventId":{"Name":"ExecutingEndpoint"},"SourceContext":"Microsoft.AspNetCore.Routing.EndpointMiddleware","RequestId":"0HMIV6BNA8S2Q:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:13.845
+#Msg# Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(Goods.Entity.ViewModels.LoginViweModel) on controller Goods.Controllers.AccountController (Goods).
+#Pro# {"EventId":{"Id":3,"Name":"ControllerActionExecuting"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker","ActionId":"db777986-de29-4b93-93dd-13cba887a55c","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6BNA8S2Q:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:19.812
+#Msg# Entity Framework Core 5.0.15 initialized 'AuthorityDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+#Pro# {"EventId":{"Id":10403,"Name":"Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized"},"SourceContext":"Microsoft.EntityFrameworkCore.Infrastructure","ActionId":"db777986-de29-4b93-93dd-13cba887a55c","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6BNA8S2Q:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:20.716
+#Msg# Executed DbCommand (81ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+#Pro# {"EventId":{"Id":20101,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"db777986-de29-4b93-93dd-13cba887a55c","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6BNA8S2Q:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:20.964
+#Msg# Executed DbCommand (4ms) [Parameters=[@__userId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+#Pro# {"EventId":{"Id":20101,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"db777986-de29-4b93-93dd-13cba887a55c","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6BNA8S2Q:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:21.174
+#Msg# Entity Framework Core 5.0.15 initialized 'LogDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+#Pro# {"EventId":{"Id":10403,"Name":"Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized"},"SourceContext":"Microsoft.EntityFrameworkCore.Infrastructure","ActionId":"db777986-de29-4b93-93dd-13cba887a55c","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6BNA8S2Q:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:21.317
+#Msg# Executed DbCommand (10ms) [Parameters=[@p0='?' (Size = 30) (DbType = AnsiString), @p1='?' (DbType = Int32), @p2='?' (DbType = DateTime2), @p3='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [LoginLog] ([IP], [LoginState], [LoginTime], [UserName])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [Id]
+FROM [LoginLog]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+#Pro# {"EventId":{"Id":20101,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"db777986-de29-4b93-93dd-13cba887a55c","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6BNA8S2Q:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:21.365
+#Msg# Executing OkObjectResult, writing value of type 'Goods.Tools.ApiResult'.
+#Pro# {"EventId":{"Id":1,"Name":"ObjectResultExecuting"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor","ActionId":"db777986-de29-4b93-93dd-13cba887a55c","ActionName":"Goods.Controllers.AccountController.Login (Goods)","RequestId":"0HMIV6BNA8S2Q:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:21.386
+#Msg# Executed action Goods.Controllers.AccountController.Login (Goods) in 7529.1951ms
+#Pro# {"EventId":{"Id":2,"Name":"ActionExecuted"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker","ActionId":"db777986-de29-4b93-93dd-13cba887a55c","RequestId":"0HMIV6BNA8S2Q:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:21.391
+#Msg# Executed endpoint 'Goods.Controllers.AccountController.Login (Goods)'
+#Pro# {"EventId":{"Id":1,"Name":"ExecutedEndpoint"},"SourceContext":"Microsoft.AspNetCore.Routing.EndpointMiddleware","RequestId":"0HMIV6BNA8S2Q:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:21.401
+#Msg# Request finished HTTP/1.1 POST http://localhost:5000/api/Account/Login application/json 75 - 200 - application/json;+charset=utf-8 7802.6031ms
+#Pro# {"ElapsedMilliseconds":7802.6031,"StatusCode":200,"ContentType":"application/json; charset=utf-8","ContentLength":null,"Protocol":"HTTP/1.1","Method":"POST","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Account/Login","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6BNA8S2Q:00000004","RequestPath":"/api/Account/Login","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:40.905
+#Msg# Request starting HTTP/1.1 GET http://localhost:5000/api/Goods/GetGoodsList - -
+#Pro# {"Protocol":"HTTP/1.1","Method":"GET","ContentType":null,"ContentLength":null,"Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Goods/GetGoodsList","QueryString":"","EventId":{"Id":1,"Name":"RequestStarting"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6BNA8S2Q:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:41.023
+#Msg# Successfully validated the token.
+#Pro# {"EventId":{"Id":2,"Name":"TokenValidationSucceeded"},"SourceContext":"Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler","RequestId":"0HMIV6BNA8S2Q:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:41.034
+#Msg# Authorization was successful.
+#Pro# {"EventId":{"Id":1,"Name":"UserAuthorizationSucceeded"},"SourceContext":"Microsoft.AspNetCore.Authorization.DefaultAuthorizationService","RequestId":"0HMIV6BNA8S2Q:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:41.036
+#Msg# Executing endpoint 'Goods.Controllers.GoodsController.GetGoodsList (Goods)'
+#Pro# {"EventId":{"Name":"ExecutingEndpoint"},"SourceContext":"Microsoft.AspNetCore.Routing.EndpointMiddleware","RequestId":"0HMIV6BNA8S2Q:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:41.040
+#Msg# Route matched with {action = "GetGoodsList", controller = "Goods"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetGoodsList() on controller Goods.Controllers.GoodsController (Goods).
+#Pro# {"EventId":{"Id":3,"Name":"ControllerActionExecuting"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker","ActionId":"655a0108-331d-4999-a387-70cb0bce72b9","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV6BNA8S2Q:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:48.001
+#Msg# Entity Framework Core 5.0.15 initialized 'GoodsDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+#Pro# {"EventId":{"Id":10403,"Name":"Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized"},"SourceContext":"Microsoft.EntityFrameworkCore.Infrastructure","ActionId":"655a0108-331d-4999-a387-70cb0bce72b9","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV6BNA8S2Q:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:48.020
+#Msg# Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[GoodsDesc], [g].[GoodsName], [g].[GoodsPrice]
+FROM [Goods] AS [g]
+#Pro# {"EventId":{"Id":20101,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"655a0108-331d-4999-a387-70cb0bce72b9","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV6BNA8S2Q:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:48.042
+#Msg# Entity Framework Core 5.0.15 initialized 'LogDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+#Pro# {"EventId":{"Id":10403,"Name":"Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized"},"SourceContext":"Microsoft.EntityFrameworkCore.Infrastructure","ActionId":"655a0108-331d-4999-a387-70cb0bce72b9","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV6BNA8S2Q:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:48.085
+#Msg# Executed DbCommand (3ms) [Parameters=[@p0='?' (Size = 40) (DbType = AnsiString), @p1='?' (Size = 40) (DbType = AnsiString), @p2='?' (DbType = DateTime2), @p3='?' (Size = 30) (DbType = AnsiString), @p4='?' (Size = 5) (DbType = AnsiString), @p5='?' (Size = 200), @p6='?' (Size = 20) (DbType = AnsiString), @p7='?' (DbType = Int32), @p8='?' (Size = 100), @p9='?' (Size = 10)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [RequestLog] ([ActionName], [ControllerName], [DateTime], [IP], [Method], [Parameter], [RequestTime], [StateCode], [Url], [UserName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9);
+SELECT [Id]
+FROM [RequestLog]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+#Pro# {"EventId":{"Id":20101,"Name":"Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"},"SourceContext":"Microsoft.EntityFrameworkCore.Database.Command","ActionId":"655a0108-331d-4999-a387-70cb0bce72b9","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV6BNA8S2Q:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:48.099
+#Msg# Executing OkObjectResult, writing value of type 'Goods.Tools.ApiResult'.
+#Pro# {"EventId":{"Id":1,"Name":"ObjectResultExecuting"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor","ActionId":"655a0108-331d-4999-a387-70cb0bce72b9","ActionName":"Goods.Controllers.GoodsController.GetGoodsList (Goods)","RequestId":"0HMIV6BNA8S2Q:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:48.108
+#Msg# Executed action Goods.Controllers.GoodsController.GetGoodsList (Goods) in 7062.4311ms
+#Pro# {"EventId":{"Id":2,"Name":"ActionExecuted"},"SourceContext":"Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker","ActionId":"655a0108-331d-4999-a387-70cb0bce72b9","RequestId":"0HMIV6BNA8S2Q:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:48.111
+#Msg# Executed endpoint 'Goods.Controllers.GoodsController.GetGoodsList (Goods)'
+#Pro# {"EventId":{"Id":1,"Name":"ExecutedEndpoint"},"SourceContext":"Microsoft.AspNetCore.Routing.EndpointMiddleware","RequestId":"0HMIV6BNA8S2Q:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+
+
+【INF】2022-07-06 17:36:48.114
+#Msg# Request finished HTTP/1.1 GET http://localhost:5000/api/Goods/GetGoodsList - - - 200 - application/json;+charset=utf-8 7209.5133ms
+#Pro# {"ElapsedMilliseconds":7209.5133,"StatusCode":200,"ContentType":"application/json; charset=utf-8","ContentLength":null,"Protocol":"HTTP/1.1","Method":"GET","Scheme":"http","Host":"localhost:5000","PathBase":"","Path":"/api/Goods/GetGoodsList","QueryString":"","EventId":{"Id":2,"Name":"RequestFinished"},"SourceContext":"Microsoft.AspNetCore.Hosting.Diagnostics","RequestId":"0HMIV6BNA8S2Q:00000005","RequestPath":"/api/Goods/GetGoodsList","ConnectionId":"0HMIV6BNA8S2Q"}
+#Exc# 
+

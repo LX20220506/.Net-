@@ -7,7 +7,9 @@ namespace Goods.EF
     {
         public DbSet<GoodsInfo> GoodsInfo { get; set; }
 
-        public GoodsDbContext(DbContextOptions<GoodsDbContext> options) : base(options) { }
+        public GoodsDbContext(DbContextOptions<GoodsDbContext> options) : base(options) 
+        {
+        }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
